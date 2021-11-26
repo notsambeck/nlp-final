@@ -1,2 +1,6 @@
 *.pyc
 output/
+.ipynb_checkpoints/
+trained_model/
+venv/
+*.pkl
