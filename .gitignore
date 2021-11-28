@@ -4,3 +4,6 @@ output/
 trained_model/
 venv/
 *.pkl
+*.arrow
+experiments/*/*.json
+
