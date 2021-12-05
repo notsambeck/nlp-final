@@ -1,0 +1,1793 @@
+,x,y
+0,"I thought Bobby was [MASK], but instead he was very hopeless.",hopeful
+1,"I thought Alexander was [MASK], but instead he was very easy.",difficult
+2,"I thought Alexander was [MASK], but instead he was very strange.",familiar
+3,"I thought Mark was [MASK], but instead he was very stupid.",smart
+4,"I thought Benjamin was [MASK], but instead he was very unhappy.",happy
+5,"I thought John was [MASK], but instead he was very known.",unknown
+6,"I thought Henry was [MASK], but instead he was very hostile.",friendly
+7,"I thought Mike was [MASK], but instead he was very poor.",rich
+8,"I thought Andrew was [MASK], but instead he was very good.",bad
+9,"I thought Carl was [MASK], but instead he was very rich.",poor
+10,"I thought James was [MASK], but instead he was very straight.",corrupt
+11,"I thought Joe was [MASK], but instead he was very offensive.",defensive
+12,"I thought Bobby was [MASK], but instead he was very imperfect.",perfect
+13,"I thought Harry was [MASK], but instead he was very come.",gone
+14,"I thought Arthur was [MASK], but instead he was very conservative.",progressive
+15,"I thought Albert was [MASK], but instead he was very confident.",shy
+16,"I thought Francis was [MASK], but instead he was very easy.",difficult
+17,"I thought Tony was [MASK], but instead he was very intelligent.",stupid
+18,"I thought Albert was [MASK], but instead he was very hopeless.",hopeful
+19,"I thought Paul was [MASK], but instead he was very good.",evil
+20,"I thought Robert was [MASK], but instead he was very negative.",positive
+21,"I thought Peter was [MASK], but instead he was very early.",late
+22,"I thought Jimmy was [MASK], but instead he was very patient.",impatient
+23,"I thought Edward was [MASK], but instead he was very negative.",positive
+24,"I thought Harold was [MASK], but instead he was very invisible.",conspicuous
+25,"I thought Robert was [MASK], but instead he was very fearful.",courageous
+26,"I thought James was [MASK], but instead he was very impatient.",patient
+27,"I thought Don was [MASK], but instead he was very stupid.",smart
+28,"I thought Fred was [MASK], but instead he was very progressive.",conservative
+29,"I thought John was [MASK], but instead he was very unhealthy.",healthy
+30,"I thought Carl was [MASK], but instead he was very pessimistic.",optimistic
+31,"I thought Albert was [MASK], but instead he was very valuable.",worthless
+32,"I thought Albert was [MASK], but instead he was very unreliable.",reliable
+33,"I thought Steven was [MASK], but instead he was very powerful.",powerless
+34,"I thought Mark was [MASK], but instead he was very negative.",positive
+35,"I thought Fred was [MASK], but instead he was very passive.",active
+36,"I thought Frederick was [MASK], but instead he was very nasty.",nice
+37,"I thought Richard was [MASK], but instead he was very cold.",hot
+38,"I thought Simon was [MASK], but instead he was very stupid.",smart
+39,"I thought Ron was [MASK], but instead he was very different.",similar
+40,"I thought Matthew was [MASK], but instead he was very unhealthy.",healthy
+41,"I thought Tim was [MASK], but instead he was very amateur.",professional
+42,"I thought Jeff was [MASK], but instead he was very cool.",warm
+43,"I thought Larry was [MASK], but instead he was very negative.",positive
+44,"I thought George was [MASK], but instead he was very comfortable.",uncomfortable
+45,"I thought Jim was [MASK], but instead he was very unavailable.",available
+46,"I thought Brian was [MASK], but instead he was very pessimistic.",optimistic
+47,"I thought Jonathan was [MASK], but instead he was very predictable.",unpredictable
+48,"I thought Steven was [MASK], but instead he was very fearless.",afraid
+49,"I thought Harry was [MASK], but instead he was very old.",new
+50,"I thought Alexander was [MASK], but instead he was very good.",ill
+51,"I thought Mark was [MASK], but instead he was very thirsty.",hungry
+52,"I thought Lawrence was [MASK], but instead he was very simple.",complex
+53,"I thought Richard was [MASK], but instead he was very offensive.",defensive
+54,"I thought Jonathan was [MASK], but instead he was very stupid.",smart
+55,"I thought Alexander was [MASK], but instead he was very stupid.",smart
+56,"I thought Benjamin was [MASK], but instead he was very intellectual.",emotional
+57,"I thought Chris was [MASK], but instead he was very positive.",negative
+58,"I thought Bob was [MASK], but instead he was very proud.",humble
+59,"I thought Martin was [MASK], but instead he was very early.",late
+60,"I thought Christopher was [MASK], but instead he was very nasty.",nice
+61,"I thought Patrick was [MASK], but instead he was very useful.",useless
+62,"I thought Joseph was [MASK], but instead he was very similar.",different
+63,"I thought Joseph was [MASK], but instead he was very liberal.",conservative
+64,"I thought Samuel was [MASK], but instead he was very powerful.",powerless
+65,"I thought Jonathan was [MASK], but instead he was very cerebral.",emotional
+66,"I thought Albert was [MASK], but instead he was very stable.",unstable
+67,"I thought Jerry was [MASK], but instead he was very hot.",cold
+68,"I thought Scott was [MASK], but instead he was very unhappy.",happy
+69,"I thought Charlie was [MASK], but instead he was very known.",unknown
+70,"I thought Mike was [MASK], but instead he was very useful.",useless
+71,"I thought Philip was [MASK], but instead he was very negative.",positive
+72,"I thought Edwin was [MASK], but instead he was very timid.",brave
+73,"I thought Ryan was [MASK], but instead he was very cold.",hot
+74,"I thought Eric was [MASK], but instead he was very honest.",dishonest
+75,"I thought Kenneth was [MASK], but instead he was very liquid.",solid
+76,"I thought Matthew was [MASK], but instead he was very weak.",strong
+77,"I thought John was [MASK], but instead he was very easy.",difficult
+78,"I thought Larry was [MASK], but instead he was very advance.",broken
+79,"I thought Steve was [MASK], but instead he was very impatient.",patient
+80,"I thought Sam was [MASK], but instead he was very careless.",careful
+81,"I thought Ryan was [MASK], but instead he was very careless.",careful
+82,"I thought Chris was [MASK], but instead he was very organic.",functional
+83,"I thought Chris was [MASK], but instead he was very quiet.",active
+84,"I thought Michael was [MASK], but instead he was very polite.",rude
+85,"I thought Dan was [MASK], but instead he was very smart.",stupid
+86,"I thought Louis was [MASK], but instead he was very progressive.",conservative
+87,"I thought Joe was [MASK], but instead he was very timid.",brave
+88,"I thought Mike was [MASK], but instead he was very simple.",complex
+89,"I thought Hugh was [MASK], but instead he was very different.",like
+90,"I thought Mark was [MASK], but instead he was very intellectual.",emotional
+91,"I thought Mike was [MASK], but instead he was very large.",small
+92,"I thought Benjamin was [MASK], but instead he was very invisible.",visible
+93,"I thought Steven was [MASK], but instead he was very independent.",dependent
+94,"I thought Carl was [MASK], but instead he was very cheap.",expensive
+95,"I thought Kevin was [MASK], but instead he was very right.",wrong
+96,"I thought George was [MASK], but instead he was very confident.",shy
+97,"I thought Edward was [MASK], but instead he was very good.",evil
+98,"I thought Patrick was [MASK], but instead he was very intellectual.",emotional
+99,"I thought Steven was [MASK], but instead he was very valuable.",worthless
+100,"I thought Jim was [MASK], but instead he was very fearful.",courageous
+101,"I thought John was [MASK], but instead he was very good.",evil
+102,"I thought Andrew was [MASK], but instead he was very little.",much
+103,"I thought Peter was [MASK], but instead he was very unavailable.",available
+104,"I thought Hugh was [MASK], but instead he was very pessimistic.",optimistic
+105,"I thought Louis was [MASK], but instead he was very early.",late
+106,"I thought Simon was [MASK], but instead he was very honest.",dishonest
+107,"I thought Jerry was [MASK], but instead he was very break.",made
+108,"I thought Dave was [MASK], but instead he was very good.",evil
+109,"I thought Dick was [MASK], but instead he was very liquid.",solid
+110,"I thought Keith was [MASK], but instead he was very poor.",rich
+111,"I thought Philip was [MASK], but instead he was very unhealthy.",healthy
+112,"I thought Arthur was [MASK], but instead he was very impatient.",patient
+113,"I thought James was [MASK], but instead he was very progressive.",conservative
+114,"I thought Keith was [MASK], but instead he was very independent.",dependent
+115,"I thought Dick was [MASK], but instead he was very beautiful.",ugly
+116,"I thought Tony was [MASK], but instead he was very stupid.",smart
+117,"I thought Alan was [MASK], but instead he was very safe.",dangerous
+118,"I thought Brian was [MASK], but instead he was very small.",big
+119,"I thought Billy was [MASK], but instead he was very thirsty.",hungry
+120,"I thought Ralph was [MASK], but instead he was very useful.",useless
+121,"I thought Stephen was [MASK], but instead he was very black.",white
+122,"I thought Mike was [MASK], but instead he was very organic.",functional
+123,"I thought Jimmy was [MASK], but instead he was very general.",specific
+124,"I thought Christopher was [MASK], but instead he was very clean.",dirty
+125,"I thought Jay was [MASK], but instead he was very early.",late
+126,"I thought Larry was [MASK], but instead he was very valuable.",worthless
+127,"I thought Fred was [MASK], but instead he was very cool.",warm
+128,"I thought Charlie was [MASK], but instead he was very negative.",positive
+129,"I thought Simon was [MASK], but instead he was very safe.",dangerous
+130,"I thought Joseph was [MASK], but instead he was very polite.",rude
+131,"I thought David was [MASK], but instead he was very dry.",sweet
+132,"I thought Dick was [MASK], but instead he was very mild.",intense
+133,"I thought Louis was [MASK], but instead he was very clean.",dirty
+134,"I thought Al was [MASK], but instead he was very good.",evil
+135,"I thought Albert was [MASK], but instead he was very playful.",serious
+136,"I thought Jason was [MASK], but instead he was very discouraging.",encouraging
+137,"I thought Brian was [MASK], but instead he was very conservative.",progressive
+138,"I thought Billy was [MASK], but instead he was very small.",big
+139,"I thought Kenneth was [MASK], but instead he was very unreliable.",reliable
+140,"I thought Simon was [MASK], but instead he was very fearful.",courageous
+141,"I thought George was [MASK], but instead he was very pessimistic.",optimistic
+142,"I thought Walter was [MASK], but instead he was very public.",private
+143,"I thought Carl was [MASK], but instead he was very good.",evil
+144,"I thought Eric was [MASK], but instead he was very warm.",cool
+145,"I thought Jay was [MASK], but instead he was very predictable.",unpredictable
+146,"I thought Ryan was [MASK], but instead he was very dangerous.",safe
+147,"I thought Adam was [MASK], but instead he was very white.",black
+148,"I thought Benjamin was [MASK], but instead he was very well.",sick
+149,"I thought Jack was [MASK], but instead he was very strong.",weak
+150,"I thought Simon was [MASK], but instead he was very negative.",positive
+151,"I thought Louis was [MASK], but instead he was very imperfect.",perfect
+152,"I thought Chris was [MASK], but instead he was very short.",tall
+153,"I thought Paul was [MASK], but instead he was very imperfect.",perfect
+154,"I thought Sam was [MASK], but instead he was very foolish.",wise
+155,"I thought Simon was [MASK], but instead he was very poor.",rich
+156,"I thought Simon was [MASK], but instead he was very confident.",shy
+157,"I thought Johnny was [MASK], but instead he was very passive.",active
+158,"I thought Charlie was [MASK], but instead he was very difficult.",easy
+159,"I thought Edwin was [MASK], but instead he was very timid.",brave
+160,"I thought Ed was [MASK], but instead he was very fearful.",courageous
+161,"I thought Mark was [MASK], but instead he was very good.",evil
+162,"I thought Fred was [MASK], but instead he was very hot.",cold
+163,"I thought Chris was [MASK], but instead he was very responsible.",irresponsible
+164,"I thought Kevin was [MASK], but instead he was very optimistic.",pessimistic
+165,"I thought Frederick was [MASK], but instead he was very independent.",dependent
+166,"I thought Chris was [MASK], but instead he was very little.",much
+167,"I thought Ray was [MASK], but instead he was very small.",big
+168,"I thought Benjamin was [MASK], but instead he was very amateur.",professional
+169,"I thought Jonathan was [MASK], but instead he was very advance.",broken
+170,"I thought Joseph was [MASK], but instead he was very passive.",active
+171,"I thought Matt was [MASK], but instead he was very expensive.",cheap
+172,"I thought Thomas was [MASK], but instead he was very humble.",proud
+173,"I thought Scott was [MASK], but instead he was very familiar.",strange
+174,"I thought John was [MASK], but instead he was very happy.",unhappy
+175,"I thought Mark was [MASK], but instead he was very white.",black
+176,"I thought Daniel was [MASK], but instead he was very buy.",sold
+177,"I thought Greg was [MASK], but instead he was very thirsty.",hungry
+178,"I thought Joe was [MASK], but instead he was very incomplete.",complete
+179,"I thought Benjamin was [MASK], but instead he was very public.",private
+180,"I thought Joseph was [MASK], but instead he was very comfortable.",uncomfortable
+181,"I thought Nick was [MASK], but instead he was very invisible.",conspicuous
+182,"I thought William was [MASK], but instead he was very short.",tall
+183,"I thought Eric was [MASK], but instead he was very ugly.",beautiful
+184,"I thought Tony was [MASK], but instead he was very positive.",negative
+185,"I thought Greg was [MASK], but instead he was very brave.",cautious
+186,"I thought James was [MASK], but instead he was very stupid.",smart
+187,"I thought George was [MASK], but instead he was very unavailable.",available
+188,"I thought Ian was [MASK], but instead he was very little.",much
+189,"I thought Thomas was [MASK], but instead he was very ugly.",beautiful
+190,"I thought George was [MASK], but instead he was very distant.",close
+191,"I thought Howard was [MASK], but instead he was very weak.",strong
+192,"I thought Andrew was [MASK], but instead he was very upstairs.",below
+193,"I thought Dick was [MASK], but instead he was very cheap.",expensive
+194,"I thought Alex was [MASK], but instead he was very ill.",well
+195,"I thought Don was [MASK], but instead he was very careless.",careful
+196,"I thought Joseph was [MASK], but instead he was very pessimistic.",optimistic
+197,"I thought Joe was [MASK], but instead he was very happy.",unhappy
+198,"I thought Tim was [MASK], but instead he was very break.",made
+199,"I thought Carl was [MASK], but instead he was very small.",big
+200,"I thought Colin was [MASK], but instead he was very easy.",difficult
+201,"I thought Frank was [MASK], but instead he was very clean.",dirty
+202,"I thought Christopher was [MASK], but instead he was very hide.",shown
+203,"I thought Keith was [MASK], but instead he was very familiar.",strange
+204,"I thought Ron was [MASK], but instead he was very liquid.",solid
+205,"I thought Steven was [MASK], but instead he was very advance.",broken
+206,"I thought Patrick was [MASK], but instead he was very clean.",dirty
+207,"I thought Kevin was [MASK], but instead he was very good.",evil
+208,"I thought Jay was [MASK], but instead he was very intelligent.",stupid
+209,"I thought Daniel was [MASK], but instead he was very old.",young
+210,"I thought Ed was [MASK], but instead he was very good.",bad
+211,"I thought Samuel was [MASK], but instead he was very optimistic.",pessimistic
+212,"I thought Hugh was [MASK], but instead he was very predictable.",unpredictable
+213,"I thought Jack was [MASK], but instead he was very proud.",humble
+214,"I thought Charles was [MASK], but instead he was very young.",old
+215,"I thought Richard was [MASK], but instead he was very passive.",active
+216,"I thought George was [MASK], but instead he was very fearless.",afraid
+217,"I thought Dan was [MASK], but instead he was very offensive.",defensive
+218,"I thought Sam was [MASK], but instead he was very tender.",tough
+219,"I thought Nick was [MASK], but instead he was very cerebral.",emotional
+220,"I thought Kevin was [MASK], but instead he was very valuable.",worthless
+221,"I thought Dave was [MASK], but instead he was very strange.",familiar
+222,"I thought Jonathan was [MASK], but instead he was very safe.",dangerous
+223,"I thought Edward was [MASK], but instead he was very active.",quiet
+224,"I thought Richard was [MASK], but instead he was very fearful.",courageous
+225,"I thought Tim was [MASK], but instead he was very visible.",invisible
+226,"I thought Scott was [MASK], but instead he was very small.",big
+227,"I thought Jeff was [MASK], but instead he was very unhealthy.",healthy
+228,"I thought Hugh was [MASK], but instead he was very short.",tall
+229,"I thought Thomas was [MASK], but instead he was very hostile.",friendly
+230,"I thought Jim was [MASK], but instead he was very soft.",hard
+231,"I thought Bill was [MASK], but instead he was very thirsty.",hungry
+232,"I thought Alan was [MASK], but instead he was very lost.",found
+233,"I thought Bobby was [MASK], but instead he was very foolish.",wise
+234,"I thought Bruce was [MASK], but instead he was very secure.",insecure
+235,"I thought Greg was [MASK], but instead he was very clean.",dirty
+236,"I thought Edward was [MASK], but instead he was very good.",ill
+237,"I thought George was [MASK], but instead he was very common.",individual
+238,"I thought Johnny was [MASK], but instead he was very ugly.",beautiful
+239,"I thought Alfred was [MASK], but instead he was very active.",passive
+240,"I thought Jason was [MASK], but instead he was very valuable.",worthless
+241,"I thought Francis was [MASK], but instead he was very liquid.",solid
+242,"I thought Donald was [MASK], but instead he was very rude.",polite
+243,"I thought Howard was [MASK], but instead he was very old.",new
+244,"I thought Simon was [MASK], but instead he was very dull.",bright
+245,"I thought Dan was [MASK], but instead he was very easy.",difficult
+246,"I thought Tom was [MASK], but instead he was very active.",passive
+247,"I thought Eric was [MASK], but instead he was very poor.",rich
+248,"I thought Charlie was [MASK], but instead he was very easy.",difficult
+249,"I thought Philip was [MASK], but instead he was very familiar.",strange
+250,"I thought Brian was [MASK], but instead he was very familiar.",strange
+251,"I thought Stephen was [MASK], but instead he was very mild.",intense
+252,"I thought Richard was [MASK], but instead he was very good.",evil
+253,"I thought Johnny was [MASK], but instead he was very ugly.",beautiful
+254,"I thought Ken was [MASK], but instead he was very tender.",tough
+255,"I thought Edwin was [MASK], but instead he was very cheap.",expensive
+256,"I thought George was [MASK], but instead he was very careless.",careful
+257,"I thought Mike was [MASK], but instead he was very secure.",insecure
+258,"I thought Bruce was [MASK], but instead he was very careless.",careful
+259,"I thought Daniel was [MASK], but instead he was very complex.",simple
+260,"I thought Sam was [MASK], but instead he was very dangerous.",safe
+261,"I thought Jerry was [MASK], but instead he was very beautiful.",ugly
+262,"I thought Simon was [MASK], but instead he was very stupid.",smart
+263,"I thought Harold was [MASK], but instead he was very active.",quiet
+264,"I thought Bill was [MASK], but instead he was very public.",private
+265,"I thought Donald was [MASK], but instead he was very liberal.",conservative
+266,"I thought Larry was [MASK], but instead he was very advance.",broken
+267,"I thought Ken was [MASK], but instead he was very different.",similar
+268,"I thought Gary was [MASK], but instead he was very old.",new
+269,"I thought Edward was [MASK], but instead he was very young.",old
+270,"I thought Roger was [MASK], but instead he was very imperfect.",perfect
+271,"I thought James was [MASK], but instead he was very weak.",strong
+272,"I thought Albert was [MASK], but instead he was very fearful.",courageous
+273,"I thought Steven was [MASK], but instead he was very public.",private
+274,"I thought Adam was [MASK], but instead he was very pessimistic.",optimistic
+275,"I thought Patrick was [MASK], but instead he was very similar.",different
+276,"I thought Colin was [MASK], but instead he was very progressive.",conservative
+277,"I thought Scott was [MASK], but instead he was very unavailable.",available
+278,"I thought Bill was [MASK], but instead he was very simple.",complex
+279,"I thought Adam was [MASK], but instead he was very fearful.",courageous
+280,"I thought Don was [MASK], but instead he was very humble.",proud
+281,"I thought Anthony was [MASK], but instead he was very there.",here
+282,"I thought Joe was [MASK], but instead he was very ineffective.",effective
+283,"I thought Brian was [MASK], but instead he was very stable.",unstable
+284,"I thought Adam was [MASK], but instead he was very little.",much
+285,"I thought Ralph was [MASK], but instead he was very good.",bad
+286,"I thought Ian was [MASK], but instead he was very dry.",sweet
+287,"I thought Dave was [MASK], but instead he was very hopeless.",hopeful
+288,"I thought Ron was [MASK], but instead he was very hide.",shown
+289,"I thought Harry was [MASK], but instead he was very fearful.",courageous
+290,"I thought Bob was [MASK], but instead he was very impatient.",patient
+291,"I thought Dan was [MASK], but instead he was very known.",unknown
+292,"I thought Johnny was [MASK], but instead he was very progressive.",conservative
+293,"I thought Edwin was [MASK], but instead he was very strong.",weak
+294,"I thought Fred was [MASK], but instead he was very comfortable.",uncomfortable
+295,"I thought Roy was [MASK], but instead he was very break.",made
+296,"I thought Al was [MASK], but instead he was very fearful.",courageous
+297,"I thought Patrick was [MASK], but instead he was very fast.",slow
+298,"I thought Alex was [MASK], but instead he was very active.",quiet
+299,"I thought Larry was [MASK], but instead he was very weak.",strong
+300,"I thought Bobby was hopeful, but instead he was very [MASK].",hopeless
+301,"I thought Alexander was difficult, but instead he was very [MASK].",easy
+302,"I thought Alexander was familiar, but instead he was very [MASK].",strange
+303,"I thought Mark was smart, but instead he was very [MASK].",stupid
+304,"I thought Benjamin was happy, but instead he was very [MASK].",unhappy
+305,"I thought John was unknown, but instead he was very [MASK].",known
+306,"I thought Henry was friendly, but instead he was very [MASK].",hostile
+307,"I thought Mike was rich, but instead he was very [MASK].",poor
+308,"I thought Andrew was bad, but instead he was very [MASK].",good
+309,"I thought Carl was poor, but instead he was very [MASK].",rich
+310,"I thought James was corrupt, but instead he was very [MASK].",straight
+311,"I thought Joe was defensive, but instead he was very [MASK].",offensive
+312,"I thought Bobby was perfect, but instead he was very [MASK].",imperfect
+313,"I thought Harry was gone, but instead he was very [MASK].",come
+314,"I thought Arthur was progressive, but instead he was very [MASK].",conservative
+315,"I thought Albert was shy, but instead he was very [MASK].",confident
+316,"I thought Francis was difficult, but instead he was very [MASK].",easy
+317,"I thought Tony was stupid, but instead he was very [MASK].",intelligent
+318,"I thought Albert was hopeful, but instead he was very [MASK].",hopeless
+319,"I thought Paul was evil, but instead he was very [MASK].",good
+320,"I thought Robert was positive, but instead he was very [MASK].",negative
+321,"I thought Peter was late, but instead he was very [MASK].",early
+322,"I thought Jimmy was impatient, but instead he was very [MASK].",patient
+323,"I thought Edward was positive, but instead he was very [MASK].",negative
+324,"I thought Harold was conspicuous, but instead he was very [MASK].",invisible
+325,"I thought Robert was courageous, but instead he was very [MASK].",fearful
+326,"I thought James was patient, but instead he was very [MASK].",impatient
+327,"I thought Don was smart, but instead he was very [MASK].",stupid
+328,"I thought Fred was conservative, but instead he was very [MASK].",progressive
+329,"I thought John was healthy, but instead he was very [MASK].",unhealthy
+330,"I thought Carl was optimistic, but instead he was very [MASK].",pessimistic
+331,"I thought Albert was worthless, but instead he was very [MASK].",valuable
+332,"I thought Albert was reliable, but instead he was very [MASK].",unreliable
+333,"I thought Steven was powerless, but instead he was very [MASK].",powerful
+334,"I thought Mark was positive, but instead he was very [MASK].",negative
+335,"I thought Fred was active, but instead he was very [MASK].",passive
+336,"I thought Frederick was nice, but instead he was very [MASK].",nasty
+337,"I thought Richard was hot, but instead he was very [MASK].",cold
+338,"I thought Simon was smart, but instead he was very [MASK].",stupid
+339,"I thought Ron was similar, but instead he was very [MASK].",different
+340,"I thought Matthew was healthy, but instead he was very [MASK].",unhealthy
+341,"I thought Tim was professional, but instead he was very [MASK].",amateur
+342,"I thought Jeff was warm, but instead he was very [MASK].",cool
+343,"I thought Larry was positive, but instead he was very [MASK].",negative
+344,"I thought George was uncomfortable, but instead he was very [MASK].",comfortable
+345,"I thought Jim was available, but instead he was very [MASK].",unavailable
+346,"I thought Brian was optimistic, but instead he was very [MASK].",pessimistic
+347,"I thought Jonathan was unpredictable, but instead he was very [MASK].",predictable
+348,"I thought Steven was afraid, but instead he was very [MASK].",fearless
+349,"I thought Harry was new, but instead he was very [MASK].",old
+350,"I thought Alexander was ill, but instead he was very [MASK].",good
+351,"I thought Mark was hungry, but instead he was very [MASK].",thirsty
+352,"I thought Lawrence was complex, but instead he was very [MASK].",simple
+353,"I thought Richard was defensive, but instead he was very [MASK].",offensive
+354,"I thought Jonathan was smart, but instead he was very [MASK].",stupid
+355,"I thought Alexander was smart, but instead he was very [MASK].",stupid
+356,"I thought Benjamin was emotional, but instead he was very [MASK].",intellectual
+357,"I thought Chris was negative, but instead he was very [MASK].",positive
+358,"I thought Bob was humble, but instead he was very [MASK].",proud
+359,"I thought Martin was late, but instead he was very [MASK].",early
+360,"I thought Christopher was nice, but instead he was very [MASK].",nasty
+361,"I thought Patrick was useless, but instead he was very [MASK].",useful
+362,"I thought Joseph was different, but instead he was very [MASK].",similar
+363,"I thought Joseph was conservative, but instead he was very [MASK].",liberal
+364,"I thought Samuel was powerless, but instead he was very [MASK].",powerful
+365,"I thought Jonathan was emotional, but instead he was very [MASK].",cerebral
+366,"I thought Albert was unstable, but instead he was very [MASK].",stable
+367,"I thought Jerry was cold, but instead he was very [MASK].",hot
+368,"I thought Scott was happy, but instead he was very [MASK].",unhappy
+369,"I thought Charlie was unknown, but instead he was very [MASK].",known
+370,"I thought Mike was useless, but instead he was very [MASK].",useful
+371,"I thought Philip was positive, but instead he was very [MASK].",negative
+372,"I thought Edwin was brave, but instead he was very [MASK].",timid
+373,"I thought Ryan was hot, but instead he was very [MASK].",cold
+374,"I thought Eric was dishonest, but instead he was very [MASK].",honest
+375,"I thought Kenneth was solid, but instead he was very [MASK].",liquid
+376,"I thought Matthew was strong, but instead he was very [MASK].",weak
+377,"I thought John was difficult, but instead he was very [MASK].",easy
+378,"I thought Larry was broken, but instead he was very [MASK].",advance
+379,"I thought Steve was patient, but instead he was very [MASK].",impatient
+380,"I thought Sam was careful, but instead he was very [MASK].",careless
+381,"I thought Ryan was careful, but instead he was very [MASK].",careless
+382,"I thought Chris was functional, but instead he was very [MASK].",organic
+383,"I thought Chris was active, but instead he was very [MASK].",quiet
+384,"I thought Michael was rude, but instead he was very [MASK].",polite
+385,"I thought Dan was stupid, but instead he was very [MASK].",smart
+386,"I thought Louis was conservative, but instead he was very [MASK].",progressive
+387,"I thought Joe was brave, but instead he was very [MASK].",timid
+388,"I thought Mike was complex, but instead he was very [MASK].",simple
+389,"I thought Hugh was like, but instead he was very [MASK].",different
+390,"I thought Mark was emotional, but instead he was very [MASK].",intellectual
+391,"I thought Mike was small, but instead he was very [MASK].",large
+392,"I thought Benjamin was visible, but instead he was very [MASK].",invisible
+393,"I thought Steven was dependent, but instead he was very [MASK].",independent
+394,"I thought Carl was expensive, but instead he was very [MASK].",cheap
+395,"I thought Kevin was wrong, but instead he was very [MASK].",right
+396,"I thought George was shy, but instead he was very [MASK].",confident
+397,"I thought Edward was evil, but instead he was very [MASK].",good
+398,"I thought Patrick was emotional, but instead he was very [MASK].",intellectual
+399,"I thought Steven was worthless, but instead he was very [MASK].",valuable
+400,"I thought Jim was courageous, but instead he was very [MASK].",fearful
+401,"I thought John was evil, but instead he was very [MASK].",good
+402,"I thought Andrew was much, but instead he was very [MASK].",little
+403,"I thought Peter was available, but instead he was very [MASK].",unavailable
+404,"I thought Hugh was optimistic, but instead he was very [MASK].",pessimistic
+405,"I thought Louis was late, but instead he was very [MASK].",early
+406,"I thought Simon was dishonest, but instead he was very [MASK].",honest
+407,"I thought Jerry was made, but instead he was very [MASK].",break
+408,"I thought Dave was evil, but instead he was very [MASK].",good
+409,"I thought Dick was solid, but instead he was very [MASK].",liquid
+410,"I thought Keith was rich, but instead he was very [MASK].",poor
+411,"I thought Philip was healthy, but instead he was very [MASK].",unhealthy
+412,"I thought Arthur was patient, but instead he was very [MASK].",impatient
+413,"I thought James was conservative, but instead he was very [MASK].",progressive
+414,"I thought Keith was dependent, but instead he was very [MASK].",independent
+415,"I thought Dick was ugly, but instead he was very [MASK].",beautiful
+416,"I thought Tony was smart, but instead he was very [MASK].",stupid
+417,"I thought Alan was dangerous, but instead he was very [MASK].",safe
+418,"I thought Brian was big, but instead he was very [MASK].",small
+419,"I thought Billy was hungry, but instead he was very [MASK].",thirsty
+420,"I thought Ralph was useless, but instead he was very [MASK].",useful
+421,"I thought Stephen was white, but instead he was very [MASK].",black
+422,"I thought Mike was functional, but instead he was very [MASK].",organic
+423,"I thought Jimmy was specific, but instead he was very [MASK].",general
+424,"I thought Christopher was dirty, but instead he was very [MASK].",clean
+425,"I thought Jay was late, but instead he was very [MASK].",early
+426,"I thought Larry was worthless, but instead he was very [MASK].",valuable
+427,"I thought Fred was warm, but instead he was very [MASK].",cool
+428,"I thought Charlie was positive, but instead he was very [MASK].",negative
+429,"I thought Simon was dangerous, but instead he was very [MASK].",safe
+430,"I thought Joseph was rude, but instead he was very [MASK].",polite
+431,"I thought David was sweet, but instead he was very [MASK].",dry
+432,"I thought Dick was intense, but instead he was very [MASK].",mild
+433,"I thought Louis was dirty, but instead he was very [MASK].",clean
+434,"I thought Al was evil, but instead he was very [MASK].",good
+435,"I thought Albert was serious, but instead he was very [MASK].",playful
+436,"I thought Jason was encouraging, but instead he was very [MASK].",discouraging
+437,"I thought Brian was progressive, but instead he was very [MASK].",conservative
+438,"I thought Billy was big, but instead he was very [MASK].",small
+439,"I thought Kenneth was reliable, but instead he was very [MASK].",unreliable
+440,"I thought Simon was courageous, but instead he was very [MASK].",fearful
+441,"I thought George was optimistic, but instead he was very [MASK].",pessimistic
+442,"I thought Walter was private, but instead he was very [MASK].",public
+443,"I thought Carl was evil, but instead he was very [MASK].",good
+444,"I thought Eric was cool, but instead he was very [MASK].",warm
+445,"I thought Jay was unpredictable, but instead he was very [MASK].",predictable
+446,"I thought Ryan was safe, but instead he was very [MASK].",dangerous
+447,"I thought Adam was black, but instead he was very [MASK].",white
+448,"I thought Benjamin was sick, but instead he was very [MASK].",well
+449,"I thought Jack was weak, but instead he was very [MASK].",strong
+450,"I thought Simon was positive, but instead he was very [MASK].",negative
+451,"I thought Louis was perfect, but instead he was very [MASK].",imperfect
+452,"I thought Chris was tall, but instead he was very [MASK].",short
+453,"I thought Paul was perfect, but instead he was very [MASK].",imperfect
+454,"I thought Sam was wise, but instead he was very [MASK].",foolish
+455,"I thought Simon was rich, but instead he was very [MASK].",poor
+456,"I thought Simon was shy, but instead he was very [MASK].",confident
+457,"I thought Johnny was active, but instead he was very [MASK].",passive
+458,"I thought Charlie was easy, but instead he was very [MASK].",difficult
+459,"I thought Edwin was brave, but instead he was very [MASK].",timid
+460,"I thought Ed was courageous, but instead he was very [MASK].",fearful
+461,"I thought Mark was evil, but instead he was very [MASK].",good
+462,"I thought Fred was cold, but instead he was very [MASK].",hot
+463,"I thought Chris was irresponsible, but instead he was very [MASK].",responsible
+464,"I thought Kevin was pessimistic, but instead he was very [MASK].",optimistic
+465,"I thought Frederick was dependent, but instead he was very [MASK].",independent
+466,"I thought Chris was much, but instead he was very [MASK].",little
+467,"I thought Ray was big, but instead he was very [MASK].",small
+468,"I thought Benjamin was professional, but instead he was very [MASK].",amateur
+469,"I thought Jonathan was broken, but instead he was very [MASK].",advance
+470,"I thought Joseph was active, but instead he was very [MASK].",passive
+471,"I thought Matt was cheap, but instead he was very [MASK].",expensive
+472,"I thought Thomas was proud, but instead he was very [MASK].",humble
+473,"I thought Scott was strange, but instead he was very [MASK].",familiar
+474,"I thought John was unhappy, but instead he was very [MASK].",happy
+475,"I thought Mark was black, but instead he was very [MASK].",white
+476,"I thought Daniel was sold, but instead he was very [MASK].",buy
+477,"I thought Greg was hungry, but instead he was very [MASK].",thirsty
+478,"I thought Joe was complete, but instead he was very [MASK].",incomplete
+479,"I thought Benjamin was private, but instead he was very [MASK].",public
+480,"I thought Joseph was uncomfortable, but instead he was very [MASK].",comfortable
+481,"I thought Nick was conspicuous, but instead he was very [MASK].",invisible
+482,"I thought William was tall, but instead he was very [MASK].",short
+483,"I thought Eric was beautiful, but instead he was very [MASK].",ugly
+484,"I thought Tony was negative, but instead he was very [MASK].",positive
+485,"I thought Greg was cautious, but instead he was very [MASK].",brave
+486,"I thought James was smart, but instead he was very [MASK].",stupid
+487,"I thought George was available, but instead he was very [MASK].",unavailable
+488,"I thought Ian was much, but instead he was very [MASK].",little
+489,"I thought Thomas was beautiful, but instead he was very [MASK].",ugly
+490,"I thought George was close, but instead he was very [MASK].",distant
+491,"I thought Howard was strong, but instead he was very [MASK].",weak
+492,"I thought Andrew was below, but instead he was very [MASK].",upstairs
+493,"I thought Dick was expensive, but instead he was very [MASK].",cheap
+494,"I thought Alex was well, but instead he was very [MASK].",ill
+495,"I thought Don was careful, but instead he was very [MASK].",careless
+496,"I thought Joseph was optimistic, but instead he was very [MASK].",pessimistic
+497,"I thought Joe was unhappy, but instead he was very [MASK].",happy
+498,"I thought Tim was made, but instead he was very [MASK].",break
+499,"I thought Carl was big, but instead he was very [MASK].",small
+500,"I thought Colin was difficult, but instead he was very [MASK].",easy
+501,"I thought Frank was dirty, but instead he was very [MASK].",clean
+502,"I thought Christopher was shown, but instead he was very [MASK].",hide
+503,"I thought Keith was strange, but instead he was very [MASK].",familiar
+504,"I thought Ron was solid, but instead he was very [MASK].",liquid
+505,"I thought Steven was broken, but instead he was very [MASK].",advance
+506,"I thought Patrick was dirty, but instead he was very [MASK].",clean
+507,"I thought Kevin was evil, but instead he was very [MASK].",good
+508,"I thought Jay was stupid, but instead he was very [MASK].",intelligent
+509,"I thought Daniel was young, but instead he was very [MASK].",old
+510,"I thought Ed was bad, but instead he was very [MASK].",good
+511,"I thought Samuel was pessimistic, but instead he was very [MASK].",optimistic
+512,"I thought Hugh was unpredictable, but instead he was very [MASK].",predictable
+513,"I thought Jack was humble, but instead he was very [MASK].",proud
+514,"I thought Charles was old, but instead he was very [MASK].",young
+515,"I thought Richard was active, but instead he was very [MASK].",passive
+516,"I thought George was afraid, but instead he was very [MASK].",fearless
+517,"I thought Dan was defensive, but instead he was very [MASK].",offensive
+518,"I thought Sam was tough, but instead he was very [MASK].",tender
+519,"I thought Nick was emotional, but instead he was very [MASK].",cerebral
+520,"I thought Kevin was worthless, but instead he was very [MASK].",valuable
+521,"I thought Dave was familiar, but instead he was very [MASK].",strange
+522,"I thought Jonathan was dangerous, but instead he was very [MASK].",safe
+523,"I thought Edward was quiet, but instead he was very [MASK].",active
+524,"I thought Richard was courageous, but instead he was very [MASK].",fearful
+525,"I thought Tim was invisible, but instead he was very [MASK].",visible
+526,"I thought Scott was big, but instead he was very [MASK].",small
+527,"I thought Jeff was healthy, but instead he was very [MASK].",unhealthy
+528,"I thought Hugh was tall, but instead he was very [MASK].",short
+529,"I thought Thomas was friendly, but instead he was very [MASK].",hostile
+530,"I thought Jim was hard, but instead he was very [MASK].",soft
+531,"I thought Bill was hungry, but instead he was very [MASK].",thirsty
+532,"I thought Alan was found, but instead he was very [MASK].",lost
+533,"I thought Bobby was wise, but instead he was very [MASK].",foolish
+534,"I thought Bruce was insecure, but instead he was very [MASK].",secure
+535,"I thought Greg was dirty, but instead he was very [MASK].",clean
+536,"I thought Edward was ill, but instead he was very [MASK].",good
+537,"I thought George was individual, but instead he was very [MASK].",common
+538,"I thought Johnny was beautiful, but instead he was very [MASK].",ugly
+539,"I thought Alfred was passive, but instead he was very [MASK].",active
+540,"I thought Jason was worthless, but instead he was very [MASK].",valuable
+541,"I thought Francis was solid, but instead he was very [MASK].",liquid
+542,"I thought Donald was polite, but instead he was very [MASK].",rude
+543,"I thought Howard was new, but instead he was very [MASK].",old
+544,"I thought Simon was bright, but instead he was very [MASK].",dull
+545,"I thought Dan was difficult, but instead he was very [MASK].",easy
+546,"I thought Tom was passive, but instead he was very [MASK].",active
+547,"I thought Eric was rich, but instead he was very [MASK].",poor
+548,"I thought Charlie was difficult, but instead he was very [MASK].",easy
+549,"I thought Philip was strange, but instead he was very [MASK].",familiar
+550,"I thought Brian was strange, but instead he was very [MASK].",familiar
+551,"I thought Stephen was intense, but instead he was very [MASK].",mild
+552,"I thought Richard was evil, but instead he was very [MASK].",good
+553,"I thought Johnny was beautiful, but instead he was very [MASK].",ugly
+554,"I thought Ken was tough, but instead he was very [MASK].",tender
+555,"I thought Edwin was expensive, but instead he was very [MASK].",cheap
+556,"I thought George was careful, but instead he was very [MASK].",careless
+557,"I thought Mike was insecure, but instead he was very [MASK].",secure
+558,"I thought Bruce was careful, but instead he was very [MASK].",careless
+559,"I thought Daniel was simple, but instead he was very [MASK].",complex
+560,"I thought Sam was safe, but instead he was very [MASK].",dangerous
+561,"I thought Jerry was ugly, but instead he was very [MASK].",beautiful
+562,"I thought Simon was smart, but instead he was very [MASK].",stupid
+563,"I thought Harold was quiet, but instead he was very [MASK].",active
+564,"I thought Bill was private, but instead he was very [MASK].",public
+565,"I thought Donald was conservative, but instead he was very [MASK].",liberal
+566,"I thought Larry was broken, but instead he was very [MASK].",advance
+567,"I thought Ken was similar, but instead he was very [MASK].",different
+568,"I thought Gary was new, but instead he was very [MASK].",old
+569,"I thought Edward was old, but instead he was very [MASK].",young
+570,"I thought Roger was perfect, but instead he was very [MASK].",imperfect
+571,"I thought James was strong, but instead he was very [MASK].",weak
+572,"I thought Albert was courageous, but instead he was very [MASK].",fearful
+573,"I thought Steven was private, but instead he was very [MASK].",public
+574,"I thought Adam was optimistic, but instead he was very [MASK].",pessimistic
+575,"I thought Patrick was different, but instead he was very [MASK].",similar
+576,"I thought Colin was conservative, but instead he was very [MASK].",progressive
+577,"I thought Scott was available, but instead he was very [MASK].",unavailable
+578,"I thought Bill was complex, but instead he was very [MASK].",simple
+579,"I thought Adam was courageous, but instead he was very [MASK].",fearful
+580,"I thought Don was proud, but instead he was very [MASK].",humble
+581,"I thought Anthony was here, but instead he was very [MASK].",there
+582,"I thought Joe was effective, but instead he was very [MASK].",ineffective
+583,"I thought Brian was unstable, but instead he was very [MASK].",stable
+584,"I thought Adam was much, but instead he was very [MASK].",little
+585,"I thought Ralph was bad, but instead he was very [MASK].",good
+586,"I thought Ian was sweet, but instead he was very [MASK].",dry
+587,"I thought Dave was hopeful, but instead he was very [MASK].",hopeless
+588,"I thought Ron was shown, but instead he was very [MASK].",hide
+589,"I thought Harry was courageous, but instead he was very [MASK].",fearful
+590,"I thought Bob was patient, but instead he was very [MASK].",impatient
+591,"I thought Dan was unknown, but instead he was very [MASK].",known
+592,"I thought Johnny was conservative, but instead he was very [MASK].",progressive
+593,"I thought Edwin was weak, but instead he was very [MASK].",strong
+594,"I thought Fred was uncomfortable, but instead he was very [MASK].",comfortable
+595,"I thought Roy was made, but instead he was very [MASK].",break
+596,"I thought Al was courageous, but instead he was very [MASK].",fearful
+597,"I thought Patrick was slow, but instead he was very [MASK].",fast
+598,"I thought Alex was quiet, but instead he was very [MASK].",active
+599,"I thought Larry was strong, but instead he was very [MASK].",weak
+600,"Donald is strange, while Scott is not strange. Scott is [MASK].",familiar
+601,"Matthew is courageous, while Tim is not courageous. Tim is [MASK].",fearful
+602,"Jason is professional, while Gary is not professional. Gary is [MASK].",amateur
+603,"Tim is humble, while Bob is not humble. Bob is [MASK].",proud
+604,"Kenneth is hard, while Jim is not hard. Jim is [MASK].",soft
+605,"Brian is confident, while Colin is not confident. Colin is [MASK].",shy
+606,"Dan is unknown, while Jim is not unknown. Jim is [MASK].",known
+607,"Arthur is gone, while Frank is not gone. Frank is [MASK].",come
+608,"Dan is fat, while Benjamin is not fat. Benjamin is [MASK].",lean
+609,"Joseph is dangerous, while Patrick is not dangerous. Patrick is [MASK].",safe
+610,"Andrew is shy, while Matthew is not shy. Matthew is [MASK].",confident
+611,"William is poor, while Fred is not poor. Fred is [MASK].",rich
+612,"Michael is invisible, while Gary is not invisible. Gary is [MASK].",visible
+613,"Lawrence is sick, while Samuel is not sick. Samuel is [MASK].",well
+614,"Roy is shown, while Nick is not shown. Nick is [MASK].",hide
+615,"Kevin is stupid, while Philip is not stupid. Philip is [MASK].",smart
+616,"Eric is confident, while Jerry is not confident. Jerry is [MASK].",shy
+617,"Joseph is functional, while Gary is not functional. Gary is [MASK].",organic
+618,"Donald is intelligent, while Mike is not intelligent. Mike is [MASK].",stupid
+619,"Carl is ill, while Eric is not ill. Eric is [MASK].",good
+620,"Tony is tough, while Dan is not tough. Dan is [MASK].",tender
+621,"Ryan is careful, while Robert is not careful. Robert is [MASK].",careless
+622,"Philip is positive, while Daniel is not positive. Daniel is [MASK].",negative
+623,"Lawrence is poor, while Edward is not poor. Edward is [MASK].",rich
+624,"Jerry is proud, while Bruce is not proud. Bruce is [MASK].",humble
+625,"Kevin is safe, while Edwin is not safe. Edwin is [MASK].",dangerous
+626,"Jonathan is emotional, while George is not emotional. George is [MASK].",intellectual
+627,"Jack is courageous, while Walter is not courageous. Walter is [MASK].",fearful
+628,"Tom is stupid, while James is not stupid. James is [MASK].",smart
+629,"Francis is nice, while Greg is not nice. Greg is [MASK].",nasty
+630,"Walter is expensive, while Ed is not expensive. Ed is [MASK].",cheap
+631,"Matthew is perfect, while Charlie is not perfect. Charlie is [MASK].",imperfect
+632,"Ben is incomplete, while Anthony is not incomplete. Anthony is [MASK].",complete
+633,"Dave is careful, while Arthur is not careful. Arthur is [MASK].",careless
+634,"Edwin is stupid, while Christopher is not stupid. Christopher is [MASK].",smart
+635,"Ian is humble, while Jeff is not humble. Jeff is [MASK].",proud
+636,"Philip is unhappy, while William is not unhappy. William is [MASK].",happy
+637,"Ed is cold, while Fred is not cold. Fred is [MASK].",hot
+638,"Jason is weak, while Bobby is not weak. Bobby is [MASK].",strong
+639,"James is clean, while Brian is not clean. Brian is [MASK].",dirty
+640,"Richard is emotional, while Mark is not emotional. Mark is [MASK].",intellectual
+641,"Roger is healthy, while David is not healthy. David is [MASK].",unhealthy
+642,"Andrew is simple, while Peter is not simple. Peter is [MASK].",complex
+643,"Ben is useless, while Jack is not useless. Jack is [MASK].",useful
+644,"Donald is small, while Ken is not small. Ken is [MASK].",large
+645,"Daniel is big, while Dick is not big. Dick is [MASK].",small
+646,"Brian is quiet, while Jason is not quiet. Jason is [MASK].",active
+647,"Harold is hopeful, while Arthur is not hopeful. Arthur is [MASK].",hopeless
+648,"Simon is tough, while Anthony is not tough. Anthony is [MASK].",tender
+649,"Dick is familiar, while Al is not familiar. Al is [MASK].",strange
+650,"Tim is rude, while Matthew is not rude. Matthew is [MASK].",polite
+651,"Don is friendly, while Paul is not friendly. Paul is [MASK].",hostile
+652,"Carl is organic, while Christopher is not organic. Christopher is [MASK].",functional
+653,"Richard is nice, while Ralph is not nice. Ralph is [MASK].",nasty
+654,"Jason is optimistic, while Larry is not optimistic. Larry is [MASK].",pessimistic
+655,"Frederick is unhappy, while Fred is not unhappy. Fred is [MASK].",happy
+656,"David is bad, while Alex is not bad. Alex is [MASK].",good
+657,"Roy is made, while Dave is not made. Dave is [MASK].",break
+658,"Fred is brave, while Anthony is not brave. Anthony is [MASK].",timid
+659,"David is dirty, while Kenneth is not dirty. Kenneth is [MASK].",clean
+660,"Henry is afraid, while Tom is not afraid. Tom is [MASK].",fearless
+661,"Daniel is cheap, while Ralph is not cheap. Ralph is [MASK].",expensive
+662,"Ben is hopeful, while Howard is not hopeful. Howard is [MASK].",hopeless
+663,"Roy is proud, while Christopher is not proud. Christopher is [MASK].",humble
+664,"Jeff is intelligent, while Paul is not intelligent. Paul is [MASK].",stupid
+665,"Al is useless, while Fred is not useless. Fred is [MASK].",useful
+666,"Harry is hungry, while Ben is not hungry. Ben is [MASK].",thirsty
+667,"Harry is proud, while Dan is not proud. Dan is [MASK].",humble
+668,"Bob is lucky, while Anthony is not lucky. Anthony is [MASK].",unlucky
+669,"Harold is perfect, while Francis is not perfect. Francis is [MASK].",imperfect
+670,"Adam is young, while Matt is not young. Matt is [MASK].",old
+671,"Adam is old, while Ian is not old. Ian is [MASK].",young
+672,"Daniel is lucky, while Andrew is not lucky. Andrew is [MASK].",unlucky
+673,"Bobby is incomplete, while Robert is not incomplete. Robert is [MASK].",complete
+674,"Alex is smart, while Al is not smart. Al is [MASK].",stupid
+675,"Scott is smart, while Matthew is not smart. Matthew is [MASK].",stupid
+676,"Charlie is impatient, while Ralph is not impatient. Ralph is [MASK].",patient
+677,"Hugh is powerless, while Philip is not powerless. Philip is [MASK].",powerful
+678,"Billy is new, while Ian is not new. Ian is [MASK].",old
+679,"Fred is bright, while James is not bright. James is [MASK].",dull
+680,"Edward is old, while Ron is not old. Ron is [MASK].",young
+681,"Dick is below, while Frederick is not below. Frederick is [MASK].",upstairs
+682,"Bobby is broken, while Ryan is not broken. Ryan is [MASK].",advance
+683,"James is conspicuous, while Donald is not conspicuous. Donald is [MASK].",invisible
+684,"Frederick is tall, while James is not tall. James is [MASK].",short
+685,"Harry is safe, while George is not safe. George is [MASK].",dangerous
+686,"Jeff is bright, while Simon is not bright. Simon is [MASK].",dull
+687,"Frank is smart, while Bruce is not smart. Bruce is [MASK].",stupid
+688,"Howard is invisible, while Charlie is not invisible. Charlie is [MASK].",visible
+689,"Johnny is evil, while Jack is not evil. Jack is [MASK].",good
+690,"Carl is bad, while Bruce is not bad. Bruce is [MASK].",good
+691,"Alex is expensive, while Kenneth is not expensive. Kenneth is [MASK].",cheap
+692,"Edwin is broken, while Ed is not broken. Ed is [MASK].",advance
+693,"Bobby is smart, while Sam is not smart. Sam is [MASK].",stupid
+694,"Andrew is sick, while Jeff is not sick. Jeff is [MASK].",well
+695,"Andrew is shy, while Carl is not shy. Carl is [MASK].",confident
+696,"Steve is professional, while Matt is not professional. Matt is [MASK].",amateur
+697,"Charlie is unpredictable, while Matt is not unpredictable. Matt is [MASK].",predictable
+698,"Keith is beautiful, while Tony is not beautiful. Tony is [MASK].",ugly
+699,"Ron is excited, while Scott is not excited. Scott is [MASK].",quiet
+700,"Frank is safe, while Benjamin is not safe. Benjamin is [MASK].",dangerous
+701,"Jerry is effective, while James is not effective. James is [MASK].",ineffective
+702,"Jim is old, while Al is not old. Al is [MASK].",young
+703,"Al is sweet, while Dan is not sweet. Dan is [MASK].",dry
+704,"Harry is stupid, while Nick is not stupid. Nick is [MASK].",intelligent
+705,"Philip is emotional, while Larry is not emotional. Larry is [MASK].",cerebral
+706,"Brian is conservative, while Patrick is not conservative. Patrick is [MASK].",liberal
+707,"Tony is smart, while Christopher is not smart. Christopher is [MASK].",stupid
+708,"Paul is uncomfortable, while Adam is not uncomfortable. Adam is [MASK].",comfortable
+709,"Johnny is incomplete, while Samuel is not incomplete. Samuel is [MASK].",complete
+710,"Al is poor, while Michael is not poor. Michael is [MASK].",rich
+711,"Albert is cautious, while Carl is not cautious. Carl is [MASK].",brave
+712,"Sam is dangerous, while Tony is not dangerous. Tony is [MASK].",safe
+713,"Bill is smart, while Dick is not smart. Dick is [MASK].",stupid
+714,"Christopher is ugly, while Bob is not ugly. Bob is [MASK].",beautiful
+715,"Ralph is perfect, while Anthony is not perfect. Anthony is [MASK].",imperfect
+716,"Johnny is active, while Paul is not active. Paul is [MASK].",passive
+717,"John is conservative, while Andrew is not conservative. Andrew is [MASK].",liberal
+718,"Daniel is made, while Eric is not made. Eric is [MASK].",break
+719,"Mike is similar, while Frank is not similar. Frank is [MASK].",different
+720,"Ed is similar, while Albert is not similar. Albert is [MASK].",different
+721,"Richard is unknown, while Brian is not unknown. Brian is [MASK].",known
+722,"Frank is cold, while Andrew is not cold. Andrew is [MASK].",hot
+723,"Howard is sold, while Jonathan is not sold. Jonathan is [MASK].",buy
+724,"Eric is fine, while Jim is not fine. Jim is [MASK].",harsh
+725,"Martin is afraid, while Tim is not afraid. Tim is [MASK].",fearless
+726,"Patrick is unhappy, while Mike is not unhappy. Mike is [MASK].",happy
+727,"Tony is individual, while Richard is not individual. Richard is [MASK].",common
+728,"Robert is smart, while Jack is not smart. Jack is [MASK].",stupid
+729,"Robert is unknown, while Philip is not unknown. Philip is [MASK].",known
+730,"Ralph is shy, while Alan is not shy. Alan is [MASK].",confident
+731,"Benjamin is positive, while Howard is not positive. Howard is [MASK].",negative
+732,"Francis is brave, while Fred is not brave. Fred is [MASK].",timid
+733,"Steven is worthless, while Hugh is not worthless. Hugh is [MASK].",valuable
+734,"John is below, while Don is not below. Don is [MASK].",upstairs
+735,"Ryan is slow, while William is not slow. William is [MASK].",fast
+736,"Martin is smart, while Eric is not smart. Eric is [MASK].",stupid
+737,"Charles is poor, while Thomas is not poor. Thomas is [MASK].",rich
+738,"Walter is sick, while Martin is not sick. Martin is [MASK].",well
+739,"Steven is slow, while Richard is not slow. Richard is [MASK].",fast
+740,"Simon is warm, while Samuel is not warm. Samuel is [MASK].",cool
+741,"Steven is cool, while Fred is not cool. Fred is [MASK].",warm
+742,"Larry is cold, while Peter is not cold. Peter is [MASK].",hot
+743,"Alexander is invisible, while Robert is not invisible. Robert is [MASK].",visible
+744,"John is solid, while Carl is not solid. Carl is [MASK].",liquid
+745,"Donald is difficult, while George is not difficult. George is [MASK].",easy
+746,"Ben is similar, while Keith is not similar. Keith is [MASK].",different
+747,"Jim is well, while Roy is not well. Roy is [MASK].",ill
+748,"Kevin is rude, while Charles is not rude. Charles is [MASK].",polite
+749,"Greg is rich, while Charlie is not rich. Charlie is [MASK].",poor
+750,"Ian is corrupt, while Scott is not corrupt. Scott is [MASK].",straight
+751,"Bill is positive, while Don is not positive. Don is [MASK].",negative
+752,"Tony is new, while Fred is not new. Fred is [MASK].",old
+753,"Alan is bad, while Hugh is not bad. Hugh is [MASK].",good
+754,"Jeff is here, while Benjamin is not here. Benjamin is [MASK].",there
+755,"Roger is bad, while Ian is not bad. Ian is [MASK].",good
+756,"Thomas is below, while Al is not below. Al is [MASK].",upstairs
+757,"Alexander is dirty, while Ian is not dirty. Ian is [MASK].",clean
+758,"Jimmy is patient, while Charles is not patient. Charles is [MASK].",impatient
+759,"Bruce is humble, while Steve is not humble. Steve is [MASK].",proud
+760,"Edward is friendly, while Mark is not friendly. Mark is [MASK].",hostile
+761,"Mark is shy, while Ryan is not shy. Ryan is [MASK].",confident
+762,"Frank is friendly, while John is not friendly. John is [MASK].",hostile
+763,"Alan is bad, while Chris is not bad. Chris is [MASK].",good
+764,"Thomas is strong, while Steven is not strong. Steven is [MASK].",weak
+765,"Daniel is cool, while Bruce is not cool. Bruce is [MASK].",warm
+766,"Bob is stupid, while Hugh is not stupid. Hugh is [MASK].",intelligent
+767,"David is honest, while Donald is not honest. Donald is [MASK].",dishonest
+768,"Gary is humble, while Frederick is not humble. Frederick is [MASK].",proud
+769,"Alex is courageous, while Martin is not courageous. Martin is [MASK].",fearful
+770,"Tony is dishonest, while Christopher is not dishonest. Christopher is [MASK].",honest
+771,"Jerry is poor, while Joseph is not poor. Joseph is [MASK].",rich
+772,"Charlie is complete, while Arthur is not complete. Arthur is [MASK].",incomplete
+773,"Scott is positive, while Matt is not positive. Matt is [MASK].",negative
+774,"Ken is emotional, while Edwin is not emotional. Edwin is [MASK].",cerebral
+775,"John is organic, while Edwin is not organic. Edwin is [MASK].",functional
+776,"Gary is fine, while Steve is not fine. Steve is [MASK].",harsh
+777,"Joseph is reliable, while Keith is not reliable. Keith is [MASK].",unreliable
+778,"Harry is shy, while Jeff is not shy. Jeff is [MASK].",confident
+779,"Thomas is wrong, while James is not wrong. James is [MASK].",right
+780,"Bill is dangerous, while Simon is not dangerous. Simon is [MASK].",safe
+781,"Ray is afraid, while Harry is not afraid. Harry is [MASK].",fearless
+782,"Colin is functional, while Roger is not functional. Roger is [MASK].",organic
+783,"Daniel is conservative, while Al is not conservative. Al is [MASK].",liberal
+784,"Ben is close, while Scott is not close. Scott is [MASK].",distant
+785,"Howard is visible, while Roger is not visible. Roger is [MASK].",invisible
+786,"Carl is ugly, while Jonathan is not ugly. Jonathan is [MASK].",beautiful
+787,"Martin is humble, while Francis is not humble. Francis is [MASK].",proud
+788,"Greg is emotional, while John is not emotional. John is [MASK].",intellectual
+789,"Stephen is rude, while Harold is not rude. Harold is [MASK].",polite
+790,"Ed is afraid, while Matthew is not afraid. Matthew is [MASK].",fearless
+791,"Alex is big, while Bill is not big. Bill is [MASK].",small
+792,"Dick is easy, while Henry is not easy. Henry is [MASK].",difficult
+793,"Frederick is perfect, while Jimmy is not perfect. Jimmy is [MASK].",imperfect
+794,"Kevin is professional, while Sam is not professional. Sam is [MASK].",amateur
+795,"Bobby is different, while James is not different. James is [MASK].",similar
+796,"Edwin is below, while Donald is not below. Donald is [MASK].",upstairs
+797,"Fred is sold, while Dave is not sold. Dave is [MASK].",buy
+798,"Martin is quiet, while Scott is not quiet. Scott is [MASK].",active
+799,"Jonathan is reliable, while Ben is not reliable. Ben is [MASK].",unreliable
+800,"Anthony is young, while Albert is not young. Albert is [MASK].",old
+801,"Hugh is intense, while Greg is not intense. Greg is [MASK].",mild
+802,"William is young, while Robert is not young. Robert is [MASK].",old
+803,"Carl is familiar, while Dick is not familiar. Dick is [MASK].",strange
+804,"Colin is excited, while Bill is not excited. Bill is [MASK].",quiet
+805,"Walter is unpredictable, while Chris is not unpredictable. Chris is [MASK].",predictable
+806,"Hugh is ugly, while Alex is not ugly. Alex is [MASK].",beautiful
+807,"Simon is old, while Edwin is not old. Edwin is [MASK].",young
+808,"Alan is well, while Gary is not well. Gary is [MASK].",ill
+809,"Gary is impatient, while Mark is not impatient. Mark is [MASK].",patient
+810,"Johnny is beautiful, while James is not beautiful. James is [MASK].",ugly
+811,"Joseph is proud, while Hugh is not proud. Hugh is [MASK].",humble
+812,"Edwin is individual, while Martin is not individual. Martin is [MASK].",common
+813,"Roger is made, while Bobby is not made. Bobby is [MASK].",break
+814,"Ralph is hot, while Hugh is not hot. Hugh is [MASK].",cold
+815,"Billy is nice, while Hugh is not nice. Hugh is [MASK].",nasty
+816,"Ralph is brave, while Mark is not brave. Mark is [MASK].",timid
+817,"Tim is invisible, while Samuel is not invisible. Samuel is [MASK].",visible
+818,"Alan is shy, while Stephen is not shy. Stephen is [MASK].",confident
+819,"Bill is well, while Al is not well. Al is [MASK].",ill
+820,"Bruce is emotional, while Carl is not emotional. Carl is [MASK].",intellectual
+821,"Steven is honest, while Jonathan is not honest. Jonathan is [MASK].",dishonest
+822,"Tim is rude, while Joe is not rude. Joe is [MASK].",polite
+823,"Scott is smart, while Jerry is not smart. Jerry is [MASK].",stupid
+824,"Ray is cold, while Keith is not cold. Keith is [MASK].",hot
+825,"Donald is intense, while Walter is not intense. Walter is [MASK].",mild
+826,"Jay is made, while Jerry is not made. Jerry is [MASK].",break
+827,"Ken is active, while Ian is not active. Ian is [MASK].",quiet
+828,"Bruce is slow, while Jimmy is not slow. Jimmy is [MASK].",fast
+829,"Jeff is humble, while Donald is not humble. Donald is [MASK].",proud
+830,"Jim is like, while Kenneth is not like. Kenneth is [MASK].",different
+831,"Greg is active, while Albert is not active. Albert is [MASK].",quiet
+832,"David is passive, while John is not passive. John is [MASK].",active
+833,"Jason is active, while Jimmy is not active. Jimmy is [MASK].",passive
+834,"Alexander is familiar, while Jerry is not familiar. Jerry is [MASK].",strange
+835,"George is clean, while Benjamin is not clean. Benjamin is [MASK].",dirty
+836,"Steve is reliable, while Alex is not reliable. Alex is [MASK].",unreliable
+837,"Harold is made, while Nick is not made. Nick is [MASK].",break
+838,"Albert is strange, while Fred is not strange. Fred is [MASK].",familiar
+839,"Daniel is friendly, while Roger is not friendly. Roger is [MASK].",hostile
+840,"Robert is smart, while Kevin is not smart. Kevin is [MASK].",stupid
+841,"Roger is expensive, while Thomas is not expensive. Thomas is [MASK].",cheap
+842,"Colin is worthless, while Bill is not worthless. Bill is [MASK].",valuable
+843,"Paul is progressive, while Jeff is not progressive. Jeff is [MASK].",conservative
+844,"Paul is dependent, while Matthew is not dependent. Matthew is [MASK].",independent
+845,"Hugh is functional, while Greg is not functional. Greg is [MASK].",organic
+846,"Tim is unstable, while Alex is not unstable. Alex is [MASK].",stable
+847,"Walter is popular, while Paul is not popular. Paul is [MASK].",unpopular
+848,"Bobby is available, while Steve is not available. Steve is [MASK].",unavailable
+849,"Jay is hard, while Frederick is not hard. Frederick is [MASK].",soft
+850,"Matt is like, while Don is not like. Don is [MASK].",different
+851,"Ray is dependent, while John is not dependent. John is [MASK].",independent
+852,"Sam is evil, while Louis is not evil. Louis is [MASK].",good
+853,"Albert is effective, while Larry is not effective. Larry is [MASK].",ineffective
+854,"Christopher is much, while Dick is not much. Dick is [MASK].",little
+855,"Tony is shown, while Jerry is not shown. Jerry is [MASK].",hide
+856,"Louis is bad, while Larry is not bad. Larry is [MASK].",good
+857,"Charles is hot, while Michael is not hot. Michael is [MASK].",cold
+858,"Jay is unhappy, while Keith is not unhappy. Keith is [MASK].",happy
+859,"Jim is different, while Dick is not different. Dick is [MASK].",similar
+860,"Thomas is unpredictable, while Dave is not unpredictable. Dave is [MASK].",predictable
+861,"William is courageous, while Edwin is not courageous. Edwin is [MASK].",fearful
+862,"Joe is popular, while Frederick is not popular. Frederick is [MASK].",unpopular
+863,"Samuel is here, while Simon is not here. Simon is [MASK].",there
+864,"Jerry is sensitive, while Charlie is not sensitive. Charlie is [MASK].",insensitive
+865,"Martin is intense, while Christopher is not intense. Christopher is [MASK].",mild
+866,"Brian is well, while Kevin is not well. Kevin is [MASK].",ill
+867,"Bruce is fine, while Chris is not fine. Chris is [MASK].",harsh
+868,"Ralph is proud, while Howard is not proud. Howard is [MASK].",humble
+869,"Matthew is conservative, while Jimmy is not conservative. Jimmy is [MASK].",progressive
+870,"Bill is specific, while Johnny is not specific. Johnny is [MASK].",general
+871,"Martin is organic, while Steven is not organic. Steven is [MASK].",functional
+872,"Hugh is irresponsible, while Michael is not irresponsible. Michael is [MASK].",responsible
+873,"Ron is big, while Johnny is not big. Johnny is [MASK].",small
+874,"Greg is unpredictable, while Bruce is not unpredictable. Bruce is [MASK].",predictable
+875,"Dave is perfect, while Martin is not perfect. Martin is [MASK].",imperfect
+876,"Dan is dependent, while Eric is not dependent. Eric is [MASK].",independent
+877,"Thomas is positive, while Daniel is not positive. Daniel is [MASK].",negative
+878,"Kenneth is cold, while Martin is not cold. Martin is [MASK].",hot
+879,"Robert is pessimistic, while Fred is not pessimistic. Fred is [MASK].",optimistic
+880,"Scott is well, while Francis is not well. Francis is [MASK].",ill
+881,"Alex is gone, while Steven is not gone. Steven is [MASK].",come
+882,"Ralph is strange, while Bob is not strange. Bob is [MASK].",familiar
+883,"Harry is hot, while Kevin is not hot. Kevin is [MASK].",cold
+884,"Kenneth is hopeful, while Fred is not hopeful. Fred is [MASK].",hopeless
+885,"Bill is effective, while Louis is not effective. Louis is [MASK].",ineffective
+886,"Michael is fat, while Ryan is not fat. Ryan is [MASK].",lean
+887,"Simon is hungry, while Henry is not hungry. Henry is [MASK].",thirsty
+888,"Roger is conservative, while Jay is not conservative. Jay is [MASK].",liberal
+889,"Keith is private, while Gary is not private. Gary is [MASK].",public
+890,"Thomas is smart, while Joseph is not smart. Joseph is [MASK].",stupid
+891,"Tony is expensive, while Harry is not expensive. Harry is [MASK].",cheap
+892,"Jay is ill, while Larry is not ill. Larry is [MASK].",good
+893,"Ralph is emotional, while Mike is not emotional. Mike is [MASK].",intellectual
+894,"Michael is conspicuous, while Albert is not conspicuous. Albert is [MASK].",invisible
+895,"Gary is ill, while Greg is not ill. Greg is [MASK].",good
+896,"Donald is [MASK], while Scott is not. Scott is familiar.",strange
+897,"Matthew is [MASK], while Tim is not. Tim is fearful.",courageous
+898,"Jason is [MASK], while Gary is not. Gary is amateur.",professional
+899,"Tim is [MASK], while Bob is not. Bob is proud.",humble
+900,"Kenneth is [MASK], while Jim is not. Jim is soft.",hard
+901,"Brian is [MASK], while Colin is not. Colin is shy.",confident
+902,"Dan is [MASK], while Jim is not. Jim is known.",unknown
+903,"Arthur is [MASK], while Frank is not. Frank is come.",gone
+904,"Dan is [MASK], while Benjamin is not. Benjamin is lean.",fat
+905,"Joseph is [MASK], while Patrick is not. Patrick is safe.",dangerous
+906,"Andrew is [MASK], while Matthew is not. Matthew is confident.",shy
+907,"William is [MASK], while Fred is not. Fred is rich.",poor
+908,"Michael is [MASK], while Gary is not. Gary is visible.",invisible
+909,"Lawrence is [MASK], while Samuel is not. Samuel is well.",sick
+910,"Roy is [MASK], while Nick is not. Nick is hide.",shown
+911,"Kevin is [MASK], while Philip is not. Philip is smart.",stupid
+912,"Eric is [MASK], while Jerry is not. Jerry is shy.",confident
+913,"Joseph is [MASK], while Gary is not. Gary is organic.",functional
+914,"Donald is [MASK], while Mike is not. Mike is stupid.",intelligent
+915,"Carl is [MASK], while Eric is not. Eric is good.",ill
+916,"Tony is [MASK], while Dan is not. Dan is tender.",tough
+917,"Ryan is [MASK], while Robert is not. Robert is careless.",careful
+918,"Philip is [MASK], while Daniel is not. Daniel is negative.",positive
+919,"Lawrence is [MASK], while Edward is not. Edward is rich.",poor
+920,"Jerry is [MASK], while Bruce is not. Bruce is humble.",proud
+921,"Kevin is [MASK], while Edwin is not. Edwin is dangerous.",safe
+922,"Jonathan is [MASK], while George is not. George is intellectual.",emotional
+923,"Jack is [MASK], while Walter is not. Walter is fearful.",courageous
+924,"Tom is [MASK], while James is not. James is smart.",stupid
+925,"Francis is [MASK], while Greg is not. Greg is nasty.",nice
+926,"Walter is [MASK], while Ed is not. Ed is cheap.",expensive
+927,"Matthew is [MASK], while Charlie is not. Charlie is imperfect.",perfect
+928,"Ben is [MASK], while Anthony is not. Anthony is complete.",incomplete
+929,"Dave is [MASK], while Arthur is not. Arthur is careless.",careful
+930,"Edwin is [MASK], while Christopher is not. Christopher is smart.",stupid
+931,"Ian is [MASK], while Jeff is not. Jeff is proud.",humble
+932,"Philip is [MASK], while William is not. William is happy.",unhappy
+933,"Ed is [MASK], while Fred is not. Fred is hot.",cold
+934,"Jason is [MASK], while Bobby is not. Bobby is strong.",weak
+935,"James is [MASK], while Brian is not. Brian is dirty.",clean
+936,"Richard is [MASK], while Mark is not. Mark is intellectual.",emotional
+937,"Roger is [MASK], while David is not. David is unhealthy.",healthy
+938,"Andrew is [MASK], while Peter is not. Peter is complex.",simple
+939,"Ben is [MASK], while Jack is not. Jack is useful.",useless
+940,"Donald is [MASK], while Ken is not. Ken is large.",small
+941,"Daniel is [MASK], while Dick is not. Dick is small.",big
+942,"Brian is [MASK], while Jason is not. Jason is active.",quiet
+943,"Harold is [MASK], while Arthur is not. Arthur is hopeless.",hopeful
+944,"Simon is [MASK], while Anthony is not. Anthony is tender.",tough
+945,"Dick is [MASK], while Al is not. Al is strange.",familiar
+946,"Tim is [MASK], while Matthew is not. Matthew is polite.",rude
+947,"Don is [MASK], while Paul is not. Paul is hostile.",friendly
+948,"Carl is [MASK], while Christopher is not. Christopher is functional.",organic
+949,"Richard is [MASK], while Ralph is not. Ralph is nasty.",nice
+950,"Jason is [MASK], while Larry is not. Larry is pessimistic.",optimistic
+951,"Frederick is [MASK], while Fred is not. Fred is happy.",unhappy
+952,"David is [MASK], while Alex is not. Alex is good.",bad
+953,"Roy is [MASK], while Dave is not. Dave is break.",made
+954,"Fred is [MASK], while Anthony is not. Anthony is timid.",brave
+955,"David is [MASK], while Kenneth is not. Kenneth is clean.",dirty
+956,"Henry is [MASK], while Tom is not. Tom is fearless.",afraid
+957,"Daniel is [MASK], while Ralph is not. Ralph is expensive.",cheap
+958,"Ben is [MASK], while Howard is not. Howard is hopeless.",hopeful
+959,"Roy is [MASK], while Christopher is not. Christopher is humble.",proud
+960,"Jeff is [MASK], while Paul is not. Paul is stupid.",intelligent
+961,"Al is [MASK], while Fred is not. Fred is useful.",useless
+962,"Harry is [MASK], while Ben is not. Ben is thirsty.",hungry
+963,"Harry is [MASK], while Dan is not. Dan is humble.",proud
+964,"Bob is [MASK], while Anthony is not. Anthony is unlucky.",lucky
+965,"Harold is [MASK], while Francis is not. Francis is imperfect.",perfect
+966,"Adam is [MASK], while Matt is not. Matt is old.",young
+967,"Adam is [MASK], while Ian is not. Ian is young.",old
+968,"Daniel is [MASK], while Andrew is not. Andrew is unlucky.",lucky
+969,"Bobby is [MASK], while Robert is not. Robert is complete.",incomplete
+970,"Alex is [MASK], while Al is not. Al is stupid.",smart
+971,"Scott is [MASK], while Matthew is not. Matthew is stupid.",smart
+972,"Charlie is [MASK], while Ralph is not. Ralph is patient.",impatient
+973,"Hugh is [MASK], while Philip is not. Philip is powerful.",powerless
+974,"Billy is [MASK], while Ian is not. Ian is old.",new
+975,"Fred is [MASK], while James is not. James is dull.",bright
+976,"Edward is [MASK], while Ron is not. Ron is young.",old
+977,"Dick is [MASK], while Frederick is not. Frederick is upstairs.",below
+978,"Bobby is [MASK], while Ryan is not. Ryan is advance.",broken
+979,"James is [MASK], while Donald is not. Donald is invisible.",conspicuous
+980,"Frederick is [MASK], while James is not. James is short.",tall
+981,"Harry is [MASK], while George is not. George is dangerous.",safe
+982,"Jeff is [MASK], while Simon is not. Simon is dull.",bright
+983,"Frank is [MASK], while Bruce is not. Bruce is stupid.",smart
+984,"Howard is [MASK], while Charlie is not. Charlie is visible.",invisible
+985,"Johnny is [MASK], while Jack is not. Jack is good.",evil
+986,"Carl is [MASK], while Bruce is not. Bruce is good.",bad
+987,"Alex is [MASK], while Kenneth is not. Kenneth is cheap.",expensive
+988,"Edwin is [MASK], while Ed is not. Ed is advance.",broken
+989,"Bobby is [MASK], while Sam is not. Sam is stupid.",smart
+990,"Andrew is [MASK], while Jeff is not. Jeff is well.",sick
+991,"Andrew is [MASK], while Carl is not. Carl is confident.",shy
+992,"Steve is [MASK], while Matt is not. Matt is amateur.",professional
+993,"Charlie is [MASK], while Matt is not. Matt is predictable.",unpredictable
+994,"Keith is [MASK], while Tony is not. Tony is ugly.",beautiful
+995,"Ron is [MASK], while Scott is not. Scott is quiet.",excited
+996,"Frank is [MASK], while Benjamin is not. Benjamin is dangerous.",safe
+997,"Jerry is [MASK], while James is not. James is ineffective.",effective
+998,"Jim is [MASK], while Al is not. Al is young.",old
+999,"Al is [MASK], while Dan is not. Dan is dry.",sweet
+1000,"Harry is [MASK], while Nick is not. Nick is intelligent.",stupid
+1001,"Philip is [MASK], while Larry is not. Larry is cerebral.",emotional
+1002,"Brian is [MASK], while Patrick is not. Patrick is liberal.",conservative
+1003,"Tony is [MASK], while Christopher is not. Christopher is stupid.",smart
+1004,"Paul is [MASK], while Adam is not. Adam is comfortable.",uncomfortable
+1005,"Johnny is [MASK], while Samuel is not. Samuel is complete.",incomplete
+1006,"Al is [MASK], while Michael is not. Michael is rich.",poor
+1007,"Albert is [MASK], while Carl is not. Carl is brave.",cautious
+1008,"Sam is [MASK], while Tony is not. Tony is safe.",dangerous
+1009,"Bill is [MASK], while Dick is not. Dick is stupid.",smart
+1010,"Christopher is [MASK], while Bob is not. Bob is beautiful.",ugly
+1011,"Ralph is [MASK], while Anthony is not. Anthony is imperfect.",perfect
+1012,"Johnny is [MASK], while Paul is not. Paul is passive.",active
+1013,"John is [MASK], while Andrew is not. Andrew is liberal.",conservative
+1014,"Daniel is [MASK], while Eric is not. Eric is break.",made
+1015,"Mike is [MASK], while Frank is not. Frank is different.",similar
+1016,"Ed is [MASK], while Albert is not. Albert is different.",similar
+1017,"Richard is [MASK], while Brian is not. Brian is known.",unknown
+1018,"Frank is [MASK], while Andrew is not. Andrew is hot.",cold
+1019,"Howard is [MASK], while Jonathan is not. Jonathan is buy.",sold
+1020,"Eric is [MASK], while Jim is not. Jim is harsh.",fine
+1021,"Martin is [MASK], while Tim is not. Tim is fearless.",afraid
+1022,"Patrick is [MASK], while Mike is not. Mike is happy.",unhappy
+1023,"Tony is [MASK], while Richard is not. Richard is common.",individual
+1024,"Robert is [MASK], while Jack is not. Jack is stupid.",smart
+1025,"Robert is [MASK], while Philip is not. Philip is known.",unknown
+1026,"Ralph is [MASK], while Alan is not. Alan is confident.",shy
+1027,"Benjamin is [MASK], while Howard is not. Howard is negative.",positive
+1028,"Francis is [MASK], while Fred is not. Fred is timid.",brave
+1029,"Steven is [MASK], while Hugh is not. Hugh is valuable.",worthless
+1030,"John is [MASK], while Don is not. Don is upstairs.",below
+1031,"Ryan is [MASK], while William is not. William is fast.",slow
+1032,"Martin is [MASK], while Eric is not. Eric is stupid.",smart
+1033,"Charles is [MASK], while Thomas is not. Thomas is rich.",poor
+1034,"Walter is [MASK], while Martin is not. Martin is well.",sick
+1035,"Steven is [MASK], while Richard is not. Richard is fast.",slow
+1036,"Simon is [MASK], while Samuel is not. Samuel is cool.",warm
+1037,"Steven is [MASK], while Fred is not. Fred is warm.",cool
+1038,"Larry is [MASK], while Peter is not. Peter is hot.",cold
+1039,"Alexander is [MASK], while Robert is not. Robert is visible.",invisible
+1040,"John is [MASK], while Carl is not. Carl is liquid.",solid
+1041,"Donald is [MASK], while George is not. George is easy.",difficult
+1042,"Ben is [MASK], while Keith is not. Keith is different.",similar
+1043,"Jim is [MASK], while Roy is not. Roy is ill.",well
+1044,"Kevin is [MASK], while Charles is not. Charles is polite.",rude
+1045,"Greg is [MASK], while Charlie is not. Charlie is poor.",rich
+1046,"Ian is [MASK], while Scott is not. Scott is straight.",corrupt
+1047,"Bill is [MASK], while Don is not. Don is negative.",positive
+1048,"Tony is [MASK], while Fred is not. Fred is old.",new
+1049,"Alan is [MASK], while Hugh is not. Hugh is good.",bad
+1050,"Jeff is [MASK], while Benjamin is not. Benjamin is there.",here
+1051,"Roger is [MASK], while Ian is not. Ian is good.",bad
+1052,"Thomas is [MASK], while Al is not. Al is upstairs.",below
+1053,"Alexander is [MASK], while Ian is not. Ian is clean.",dirty
+1054,"Jimmy is [MASK], while Charles is not. Charles is impatient.",patient
+1055,"Bruce is [MASK], while Steve is not. Steve is proud.",humble
+1056,"Edward is [MASK], while Mark is not. Mark is hostile.",friendly
+1057,"Mark is [MASK], while Ryan is not. Ryan is confident.",shy
+1058,"Frank is [MASK], while John is not. John is hostile.",friendly
+1059,"Alan is [MASK], while Chris is not. Chris is good.",bad
+1060,"Thomas is [MASK], while Steven is not. Steven is weak.",strong
+1061,"Daniel is [MASK], while Bruce is not. Bruce is warm.",cool
+1062,"Bob is [MASK], while Hugh is not. Hugh is intelligent.",stupid
+1063,"David is [MASK], while Donald is not. Donald is dishonest.",honest
+1064,"Gary is [MASK], while Frederick is not. Frederick is proud.",humble
+1065,"Alex is [MASK], while Martin is not. Martin is fearful.",courageous
+1066,"Tony is [MASK], while Christopher is not. Christopher is honest.",dishonest
+1067,"Jerry is [MASK], while Joseph is not. Joseph is rich.",poor
+1068,"Charlie is [MASK], while Arthur is not. Arthur is incomplete.",complete
+1069,"Scott is [MASK], while Matt is not. Matt is negative.",positive
+1070,"Ken is [MASK], while Edwin is not. Edwin is cerebral.",emotional
+1071,"John is [MASK], while Edwin is not. Edwin is functional.",organic
+1072,"Gary is [MASK], while Steve is not. Steve is harsh.",fine
+1073,"Joseph is [MASK], while Keith is not. Keith is unreliable.",reliable
+1074,"Harry is [MASK], while Jeff is not. Jeff is confident.",shy
+1075,"Thomas is [MASK], while James is not. James is right.",wrong
+1076,"Bill is [MASK], while Simon is not. Simon is safe.",dangerous
+1077,"Ray is [MASK], while Harry is not. Harry is fearless.",afraid
+1078,"Colin is [MASK], while Roger is not. Roger is organic.",functional
+1079,"Daniel is [MASK], while Al is not. Al is liberal.",conservative
+1080,"Ben is [MASK], while Scott is not. Scott is distant.",close
+1081,"Howard is [MASK], while Roger is not. Roger is invisible.",visible
+1082,"Carl is [MASK], while Jonathan is not. Jonathan is beautiful.",ugly
+1083,"Martin is [MASK], while Francis is not. Francis is proud.",humble
+1084,"Greg is [MASK], while John is not. John is intellectual.",emotional
+1085,"Stephen is [MASK], while Harold is not. Harold is polite.",rude
+1086,"Ed is [MASK], while Matthew is not. Matthew is fearless.",afraid
+1087,"Alex is [MASK], while Bill is not. Bill is small.",big
+1088,"Dick is [MASK], while Henry is not. Henry is difficult.",easy
+1089,"Frederick is [MASK], while Jimmy is not. Jimmy is imperfect.",perfect
+1090,"Kevin is [MASK], while Sam is not. Sam is amateur.",professional
+1091,"Bobby is [MASK], while James is not. James is similar.",different
+1092,"Edwin is [MASK], while Donald is not. Donald is upstairs.",below
+1093,"Fred is [MASK], while Dave is not. Dave is buy.",sold
+1094,"Martin is [MASK], while Scott is not. Scott is active.",quiet
+1095,"Jonathan is [MASK], while Ben is not. Ben is unreliable.",reliable
+1096,"Anthony is [MASK], while Albert is not. Albert is old.",young
+1097,"Hugh is [MASK], while Greg is not. Greg is mild.",intense
+1098,"William is [MASK], while Robert is not. Robert is old.",young
+1099,"Carl is [MASK], while Dick is not. Dick is strange.",familiar
+1100,"Colin is [MASK], while Bill is not. Bill is quiet.",excited
+1101,"Walter is [MASK], while Chris is not. Chris is predictable.",unpredictable
+1102,"Hugh is [MASK], while Alex is not. Alex is beautiful.",ugly
+1103,"Simon is [MASK], while Edwin is not. Edwin is young.",old
+1104,"Alan is [MASK], while Gary is not. Gary is ill.",well
+1105,"Gary is [MASK], while Mark is not. Mark is patient.",impatient
+1106,"Johnny is [MASK], while James is not. James is ugly.",beautiful
+1107,"Joseph is [MASK], while Hugh is not. Hugh is humble.",proud
+1108,"Edwin is [MASK], while Martin is not. Martin is common.",individual
+1109,"Roger is [MASK], while Bobby is not. Bobby is break.",made
+1110,"Ralph is [MASK], while Hugh is not. Hugh is cold.",hot
+1111,"Billy is [MASK], while Hugh is not. Hugh is nasty.",nice
+1112,"Ralph is [MASK], while Mark is not. Mark is timid.",brave
+1113,"Tim is [MASK], while Samuel is not. Samuel is visible.",invisible
+1114,"Alan is [MASK], while Stephen is not. Stephen is confident.",shy
+1115,"Bill is [MASK], while Al is not. Al is ill.",well
+1116,"Bruce is [MASK], while Carl is not. Carl is intellectual.",emotional
+1117,"Steven is [MASK], while Jonathan is not. Jonathan is dishonest.",honest
+1118,"Tim is [MASK], while Joe is not. Joe is polite.",rude
+1119,"Scott is [MASK], while Jerry is not. Jerry is stupid.",smart
+1120,"Ray is [MASK], while Keith is not. Keith is hot.",cold
+1121,"Donald is [MASK], while Walter is not. Walter is mild.",intense
+1122,"Jay is [MASK], while Jerry is not. Jerry is break.",made
+1123,"Ken is [MASK], while Ian is not. Ian is quiet.",active
+1124,"Bruce is [MASK], while Jimmy is not. Jimmy is fast.",slow
+1125,"Jeff is [MASK], while Donald is not. Donald is proud.",humble
+1126,"Jim is [MASK], while Kenneth is not. Kenneth is different.",like
+1127,"Greg is [MASK], while Albert is not. Albert is quiet.",active
+1128,"David is [MASK], while John is not. John is active.",passive
+1129,"Jason is [MASK], while Jimmy is not. Jimmy is passive.",active
+1130,"Alexander is [MASK], while Jerry is not. Jerry is strange.",familiar
+1131,"George is [MASK], while Benjamin is not. Benjamin is dirty.",clean
+1132,"Steve is [MASK], while Alex is not. Alex is unreliable.",reliable
+1133,"Harold is [MASK], while Nick is not. Nick is break.",made
+1134,"Albert is [MASK], while Fred is not. Fred is familiar.",strange
+1135,"Daniel is [MASK], while Roger is not. Roger is hostile.",friendly
+1136,"Robert is [MASK], while Kevin is not. Kevin is stupid.",smart
+1137,"Roger is [MASK], while Thomas is not. Thomas is cheap.",expensive
+1138,"Colin is [MASK], while Bill is not. Bill is valuable.",worthless
+1139,"Paul is [MASK], while Jeff is not. Jeff is conservative.",progressive
+1140,"Paul is [MASK], while Matthew is not. Matthew is independent.",dependent
+1141,"Hugh is [MASK], while Greg is not. Greg is organic.",functional
+1142,"Tim is [MASK], while Alex is not. Alex is stable.",unstable
+1143,"Walter is [MASK], while Paul is not. Paul is unpopular.",popular
+1144,"Bobby is [MASK], while Steve is not. Steve is unavailable.",available
+1145,"Jay is [MASK], while Frederick is not. Frederick is soft.",hard
+1146,"Matt is [MASK], while Don is not. Don is different.",like
+1147,"Ray is [MASK], while John is not. John is independent.",dependent
+1148,"Sam is [MASK], while Louis is not. Louis is good.",evil
+1149,"Albert is [MASK], while Larry is not. Larry is ineffective.",effective
+1150,"Christopher is [MASK], while Dick is not. Dick is little.",much
+1151,"Tony is [MASK], while Jerry is not. Jerry is hide.",shown
+1152,"Louis is [MASK], while Larry is not. Larry is good.",bad
+1153,"Charles is [MASK], while Michael is not. Michael is cold.",hot
+1154,"Jay is [MASK], while Keith is not. Keith is happy.",unhappy
+1155,"Jim is [MASK], while Dick is not. Dick is similar.",different
+1156,"Thomas is [MASK], while Dave is not. Dave is predictable.",unpredictable
+1157,"William is [MASK], while Edwin is not. Edwin is fearful.",courageous
+1158,"Joe is [MASK], while Frederick is not. Frederick is unpopular.",popular
+1159,"Samuel is [MASK], while Simon is not. Simon is there.",here
+1160,"Jerry is [MASK], while Charlie is not. Charlie is insensitive.",sensitive
+1161,"Martin is [MASK], while Christopher is not. Christopher is mild.",intense
+1162,"Brian is [MASK], while Kevin is not. Kevin is ill.",well
+1163,"Bruce is [MASK], while Chris is not. Chris is harsh.",fine
+1164,"Ralph is [MASK], while Howard is not. Howard is humble.",proud
+1165,"Matthew is [MASK], while Jimmy is not. Jimmy is progressive.",conservative
+1166,"Bill is [MASK], while Johnny is not. Johnny is general.",specific
+1167,"Martin is [MASK], while Steven is not. Steven is functional.",organic
+1168,"Hugh is [MASK], while Michael is not. Michael is responsible.",irresponsible
+1169,"Ron is [MASK], while Johnny is not. Johnny is small.",big
+1170,"Greg is [MASK], while Bruce is not. Bruce is predictable.",unpredictable
+1171,"Dave is [MASK], while Martin is not. Martin is imperfect.",perfect
+1172,"Dan is [MASK], while Eric is not. Eric is independent.",dependent
+1173,"Thomas is [MASK], while Daniel is not. Daniel is negative.",positive
+1174,"Kenneth is [MASK], while Martin is not. Martin is hot.",cold
+1175,"Robert is [MASK], while Fred is not. Fred is optimistic.",pessimistic
+1176,"Scott is [MASK], while Francis is not. Francis is ill.",well
+1177,"Alex is [MASK], while Steven is not. Steven is come.",gone
+1178,"Ralph is [MASK], while Bob is not. Bob is familiar.",strange
+1179,"Harry is [MASK], while Kevin is not. Kevin is cold.",hot
+1180,"Kenneth is [MASK], while Fred is not. Fred is hopeless.",hopeful
+1181,"Bill is [MASK], while Louis is not. Louis is ineffective.",effective
+1182,"Michael is [MASK], while Ryan is not. Ryan is lean.",fat
+1183,"Simon is [MASK], while Henry is not. Henry is thirsty.",hungry
+1184,"Roger is [MASK], while Jay is not. Jay is liberal.",conservative
+1185,"Keith is [MASK], while Gary is not. Gary is public.",private
+1186,"Thomas is [MASK], while Joseph is not. Joseph is stupid.",smart
+1187,"Tony is [MASK], while Harry is not. Harry is cheap.",expensive
+1188,"Jay is [MASK], while Larry is not. Larry is good.",ill
+1189,"Ralph is [MASK], while Mike is not. Mike is intellectual.",emotional
+1190,"Michael is [MASK], while Albert is not. Albert is invisible.",conspicuous
+1191,"Gary is [MASK], while Greg is not. Greg is good.",ill
+1192,This mouse is too [MASK]. I wanted an easy one instead.,difficult
+1193,This orange is too [MASK]. I wanted a honest one instead.,dishonest
+1194,This yarn is too [MASK]. I wanted an unreliable one instead.,reliable
+1195,This rooster is too [MASK]. I wanted an amateur one instead.,professional
+1196,This dog is too [MASK]. I wanted an early one instead.,late
+1197,This bear is too [MASK]. I wanted a timid one instead.,brave
+1198,This plant is too [MASK]. I wanted a complete one instead.,incomplete
+1199,This house is too [MASK]. I wanted a confident one instead.,shy
+1200,This bear is too [MASK]. I wanted an incomplete one instead.,complete
+1201,This garage is too [MASK]. I wanted a short one instead.,tall
+1202,This van is too [MASK]. I wanted an invisible one instead.,conspicuous
+1203,This quilt is too [MASK]. I wanted a quiet one instead.,active
+1204,This yarn is too [MASK]. I wanted a happy one instead.,unhappy
+1205,This house is too [MASK]. I wanted a visible one instead.,invisible
+1206,This quilt is too [MASK]. I wanted a thirsty one instead.,hungry
+1207,This house is too [MASK]. I wanted a nasty one instead.,nice
+1208,This zebra is too [MASK]. I wanted a foolish one instead.,wise
+1209,This umbrella is too [MASK]. I wanted a good one instead.,ill
+1210,This apple is too [MASK]. I wanted a functional one instead.,organic
+1211,This quilt is too [MASK]. I wanted a lost one instead.,found
+1212,This shirt is too [MASK]. I wanted an unlucky one instead.,lucky
+1213,This bear is too [MASK]. I wanted an expensive one instead.,cheap
+1214,This bear is too [MASK]. I wanted a fast one instead.,slow
+1215,This yarn is too [MASK]. I wanted a dry one instead.,sweet
+1216,This orange is too [MASK]. I wanted a good one instead.,evil
+1217,This egg is too [MASK]. I wanted an upstairs one instead.,below
+1218,This quilt is too [MASK]. I wanted a complex one instead.,simple
+1219,This shirt is too [MASK]. I wanted a stupid one instead.,intelligent
+1220,This turtle is too [MASK]. I wanted an ineffective one instead.,effective
+1221,This quilt is too [MASK]. I wanted a weak one instead.,strong
+1222,This yarn is too [MASK]. I wanted a negative one instead.,positive
+1223,This mouse is too [MASK]. I wanted a difficult one instead.,easy
+1224,This bear is too [MASK]. I wanted an organic one instead.,functional
+1225,This turtle is too [MASK]. I wanted an easy one instead.,difficult
+1226,This garage is too [MASK]. I wanted a responsible one instead.,irresponsible
+1227,This egg is too [MASK]. I wanted an unhappy one instead.,happy
+1228,This kite is too [MASK]. I wanted an advance one instead.,broken
+1229,This kite is too [MASK]. I wanted an independent one instead.,dependent
+1230,This garage is too [MASK]. I wanted a different one instead.,like
+1231,This plant is too [MASK]. I wanted a fearful one instead.,courageous
+1232,This van is too [MASK]. I wanted a timid one instead.,brave
+1233,This orange is too [MASK]. I wanted a humble one instead.,proud
+1234,This turtle is too [MASK]. I wanted a visible one instead.,invisible
+1235,This cat is too [MASK]. I wanted an useful one instead.,useless
+1236,This kite is too [MASK]. I wanted a comfortable one instead.,uncomfortable
+1237,This quilt is too [MASK]. I wanted an imperfect one instead.,perfect
+1238,This zebra is too [MASK]. I wanted a cheap one instead.,expensive
+1239,This apple is too [MASK]. I wanted a pessimistic one instead.,optimistic
+1240,This wagon is too [MASK]. I wanted a general one instead.,specific
+1241,This rooster is too [MASK]. I wanted a complete one instead.,incomplete
+1242,This quilt is too [MASK]. I wanted an advance one instead.,broken
+1243,This zebra is too [MASK]. I wanted an unlucky one instead.,lucky
+1244,This yarn is too [MASK]. I wanted a lean one instead.,fat
+1245,This lake is too [MASK]. I wanted a dangerous one instead.,safe
+1246,This egg is too [MASK]. I wanted a safe one instead.,dangerous
+1247,This umbrella is too [MASK]. I wanted an unreliable one instead.,reliable
+1248,This apple is too [MASK]. I wanted a stupid one instead.,intelligent
+1249,This orange is too [MASK]. I wanted a visible one instead.,invisible
+1250,This orange is too [MASK]. I wanted a warm one instead.,cool
+1251,This rooster is too [MASK]. I wanted a public one instead.,private
+1252,This yarn is too [MASK]. I wanted a different one instead.,like
+1253,This cat is too [MASK]. I wanted a fearful one instead.,courageous
+1254,This note is too [MASK]. I wanted a soft one instead.,hard
+1255,This turtle is too [MASK]. I wanted a different one instead.,like
+1256,This umbrella is too [MASK]. I wanted a comfortable one instead.,uncomfortable
+1257,This turtle is too [MASK]. I wanted a fearful one instead.,courageous
+1258,This apple is too [MASK]. I wanted a cool one instead.,warm
+1259,This kite is too [MASK]. I wanted an optimistic one instead.,pessimistic
+1260,This kite is too [MASK]. I wanted a discouraging one instead.,encouraging
+1261,This mouse is too [MASK]. I wanted a smart one instead.,stupid
+1262,This cat is too [MASK]. I wanted a discouraging one instead.,encouraging
+1263,This umbrella is too [MASK]. I wanted a distant one instead.,close
+1264,This shirt is too [MASK]. I wanted a quiet one instead.,excited
+1265,This plant is too [MASK]. I wanted a buy one instead.,sold
+1266,This zebra is too [MASK]. I wanted a come one instead.,gone
+1267,This kite is too [MASK]. I wanted a humble one instead.,proud
+1268,This rooster is too [MASK]. I wanted a pessimistic one instead.,optimistic
+1269,This rooster is too [MASK]. I wanted a positive one instead.,negative
+1270,This turtle is too [MASK]. I wanted a negative one instead.,positive
+1271,This mouse is too [MASK]. I wanted a known one instead.,unknown
+1272,This umbrella is too [MASK]. I wanted a playful one instead.,serious
+1273,This shirt is too [MASK]. I wanted a foolish one instead.,wise
+1274,This mouse is too [MASK]. I wanted a cheap one instead.,expensive
+1275,This orange is too [MASK]. I wanted an organic one instead.,functional
+1276,This yarn is too [MASK]. I wanted a complete one instead.,incomplete
+1277,This apple is too [MASK]. I wanted a stupid one instead.,smart
+1278,This egg is too [MASK]. I wanted an early one instead.,late
+1279,This kite is too [MASK]. I wanted a well one instead.,sick
+1280,This apple is too [MASK]. I wanted a proud one instead.,humble
+1281,This shirt is too [MASK]. I wanted an unreliable one instead.,reliable
+1282,This wagon is too [MASK]. I wanted a happy one instead.,unhappy
+1283,This cat is too [MASK]. I wanted an invisible one instead.,visible
+1284,This bear is too [MASK]. I wanted a functional one instead.,organic
+1285,This house is too [MASK]. I wanted an easy one instead.,difficult
+1286,This garage is too [MASK]. I wanted a fearful one instead.,courageous
+1287,This umbrella is too [MASK]. I wanted a mild one instead.,intense
+1288,This garage is too [MASK]. I wanted a harsh one instead.,fine
+1289,This fox is too [MASK]. I wanted a good one instead.,bad
+1290,This lake is too [MASK]. I wanted an impatient one instead.,patient
+1291,This quilt is too [MASK]. I wanted a hostile one instead.,friendly
+1292,This quilt is too [MASK]. I wanted a shy one instead.,confident
+1293,This bear is too [MASK]. I wanted a dirty one instead.,clean
+1294,This shirt is too [MASK]. I wanted a hopeless one instead.,hopeful
+1295,This kite is too [MASK]. I wanted an optimistic one instead.,pessimistic
+1296,This lake is too [MASK]. I wanted a pessimistic one instead.,optimistic
+1297,This kite is too [MASK]. I wanted a good one instead.,bad
+1298,This wagon is too [MASK]. I wanted a fast one instead.,slow
+1299,This yarn is too [MASK]. I wanted a dry one instead.,sweet
+1300,This quilt is too [MASK]. I wanted a known one instead.,unknown
+1301,This lake is too [MASK]. I wanted a passive one instead.,active
+1302,This zebra is too [MASK]. I wanted a valuable one instead.,worthless
+1303,This zebra is too [MASK]. I wanted a continued one instead.,discontinued
+1304,This wagon is too [MASK]. I wanted a known one instead.,unknown
+1305,This kite is too [MASK]. I wanted an insensitive one instead.,sensitive
+1306,This orange is too [MASK]. I wanted a happy one instead.,unhappy
+1307,This quilt is too [MASK]. I wanted an intellectual one instead.,emotional
+1308,This van is too [MASK]. I wanted a beautiful one instead.,ugly
+1309,This bear is too [MASK]. I wanted a fearful one instead.,courageous
+1310,This wagon is too [MASK]. I wanted a good one instead.,bad
+1311,This house is too [MASK]. I wanted a lost one instead.,found
+1312,This quilt is too [MASK]. I wanted a lost one instead.,found
+1313,This note is too [MASK]. I wanted a public one instead.,private
+1314,This house is too [MASK]. I wanted a full one instead.,empty
+1315,This zebra is too [MASK]. I wanted an optimistic one instead.,pessimistic
+1316,This turtle is too [MASK]. I wanted a fast one instead.,slow
+1317,This lake is too [MASK]. I wanted a well one instead.,sick
+1318,This note is too [MASK]. I wanted a different one instead.,similar
+1319,This shirt is too [MASK]. I wanted a cerebral one instead.,emotional
+1320,This yarn is too [MASK]. I wanted a weak one instead.,strong
+1321,This dog is too [MASK]. I wanted a careless one instead.,careful
+1322,This fox is too [MASK]. I wanted a disrespectful one instead.,respectful
+1323,This egg is too [MASK]. I wanted a clean one instead.,dirty
+1324,This cat is too [MASK]. I wanted an amateur one instead.,professional
+1325,This yarn is too [MASK]. I wanted a discouraging one instead.,encouraging
+1326,This kite is too [MASK]. I wanted a cerebral one instead.,emotional
+1327,This quilt is too [MASK]. I wanted a beautiful one instead.,ugly
+1328,This mouse is too [MASK]. I wanted a happy one instead.,unhappy
+1329,This note is too [MASK]. I wanted a dull one instead.,bright
+1330,This mouse is too [MASK]. I wanted a confident one instead.,shy
+1331,This lake is too [MASK]. I wanted a positive one instead.,negative
+1332,This shirt is too [MASK]. I wanted an organic one instead.,functional
+1333,This orange is too [MASK]. I wanted a honest one instead.,dishonest
+1334,This rooster is too [MASK]. I wanted a right one instead.,wrong
+1335,This egg is too [MASK]. I wanted a good one instead.,evil
+1336,This lake is too [MASK]. I wanted a negative one instead.,positive
+1337,This zebra is too [MASK]. I wanted an organic one instead.,functional
+1338,This umbrella is too [MASK]. I wanted an old one instead.,young
+1339,This umbrella is too [MASK]. I wanted a cool one instead.,warm
+1340,This turtle is too [MASK]. I wanted a pessimistic one instead.,optimistic
+1341,This lake is too [MASK]. I wanted a difficult one instead.,easy
+1342,This rooster is too [MASK]. I wanted a happy one instead.,unhappy
+1343,This kite is too [MASK]. I wanted an optimistic one instead.,pessimistic
+1344,This plant is too [MASK]. I wanted a complete one instead.,incomplete
+1345,This rooster is too [MASK]. I wanted an ineffective one instead.,effective
+1346,This shirt is too [MASK]. I wanted a well one instead.,sick
+1347,This cat is too [MASK]. I wanted a buy one instead.,sold
+1348,This egg is too [MASK]. I wanted a quiet one instead.,active
+1349,This rooster is too [MASK]. I wanted a hide one instead.,shown
+1350,This van is too [MASK]. I wanted a little one instead.,much
+1351,This turtle is too [MASK]. I wanted an unhealthy one instead.,healthy
+1352,This dog is too [MASK]. I wanted a little one instead.,much
+1353,This kite is too [MASK]. I wanted a safe one instead.,dangerous
+1354,This cat is too [MASK]. I wanted a quiet one instead.,excited
+1355,This yarn is too [MASK]. I wanted an expensive one instead.,cheap
+1356,This cat is too [MASK]. I wanted a difficult one instead.,easy
+1357,This house is too [MASK]. I wanted a distant one instead.,close
+1358,This plant is too [MASK]. I wanted a cool one instead.,warm
+1359,This egg is too [MASK]. I wanted an unavailable one instead.,available
+1360,This note is too [MASK]. I wanted a tender one instead.,tough
+1361,This note is too [MASK]. I wanted a comfortable one instead.,uncomfortable
+1362,This plant is too [MASK]. I wanted an ineffective one instead.,effective
+1363,This house is too [MASK]. I wanted a happy one instead.,unhappy
+1364,This rooster is too [MASK]. I wanted an intellectual one instead.,emotional
+1365,This lake is too [MASK]. I wanted a general one instead.,specific
+1366,This fox is too [MASK]. I wanted a fast one instead.,slow
+1367,This wagon is too [MASK]. I wanted a general one instead.,specific
+1368,This plant is too [MASK]. I wanted an active one instead.,passive
+1369,This kite is too [MASK]. I wanted a cool one instead.,warm
+1370,This van is too [MASK]. I wanted a small one instead.,big
+1371,This van is too [MASK]. I wanted a continued one instead.,discontinued
+1372,This kite is too [MASK]. I wanted a well one instead.,sick
+1373,This note is too [MASK]. I wanted a good one instead.,bad
+1374,This quilt is too [MASK]. I wanted a little one instead.,much
+1375,This apple is too [MASK]. I wanted a cheap one instead.,expensive
+1376,This yarn is too [MASK]. I wanted an invisible one instead.,visible
+1377,This fox is too [MASK]. I wanted a timid one instead.,brave
+1378,This wagon is too [MASK]. I wanted a patient one instead.,impatient
+1379,This shirt is too [MASK]. I wanted a dry one instead.,sweet
+1380,This plant is too [MASK]. I wanted a fearful one instead.,courageous
+1381,This quilt is too [MASK]. I wanted a black one instead.,white
+1382,This rooster is too [MASK]. I wanted a complete one instead.,incomplete
+1383,This shirt is too [MASK]. I wanted a warm one instead.,cool
+1384,This zebra is too [MASK]. I wanted an unlucky one instead.,lucky
+1385,This umbrella is too [MASK]. I wanted a good one instead.,ill
+1386,This mouse is too [MASK]. I wanted an organic one instead.,functional
+1387,This note is too [MASK]. I wanted a dull one instead.,bright
+1388,This zebra is too [MASK]. I wanted a happy one instead.,unhappy
+1389,This note is too [MASK]. I wanted a progressive one instead.,conservative
+1390,This apple is too [MASK]. I wanted an expensive one instead.,cheap
+1391,This dog is too [MASK]. I wanted a polite one instead.,rude
+1392,This lake is too [MASK]. I wanted a beautiful one instead.,ugly
+1393,This dog is too [MASK]. I wanted an impatient one instead.,patient
+1394,This shirt is too [MASK]. I wanted a little one instead.,much
+1395,This dog is too [MASK]. I wanted a full one instead.,empty
+1396,This zebra is too [MASK]. I wanted an unhealthy one instead.,healthy
+1397,This fox is too [MASK]. I wanted a passive one instead.,active
+1398,This turtle is too [MASK]. I wanted a stupid one instead.,smart
+1399,This wagon is too [MASK]. I wanted a cold one instead.,hot
+1400,This quilt is too [MASK]. I wanted a mild one instead.,intense
+1401,This plant is too [MASK]. I wanted a distant one instead.,close
+1402,This cat is too [MASK]. I wanted a soft one instead.,hard
+1403,This wagon is too [MASK]. I wanted an unpopular one instead.,popular
+1404,This note is too [MASK]. I wanted a fast one instead.,slow
+1405,This bear is too [MASK]. I wanted a simple one instead.,complex
+1406,This orange is too [MASK]. I wanted a fearless one instead.,afraid
+1407,This quilt is too [MASK]. I wanted a honest one instead.,dishonest
+1408,This turtle is too [MASK]. I wanted a stupid one instead.,smart
+1409,This mouse is too [MASK]. I wanted a polite one instead.,rude
+1410,This orange is too [MASK]. I wanted an early one instead.,late
+1411,This zebra is too [MASK]. I wanted an useless one instead.,useful
+1412,This apple is too [MASK]. I wanted an useful one instead.,useless
+1413,This mouse is too [MASK]. I wanted a hide one instead.,shown
+1414,This turtle is too [MASK]. I wanted a valuable one instead.,worthless
+1415,This fox is too [MASK]. I wanted a cheap one instead.,expensive
+1416,This shirt is too [MASK]. I wanted a careless one instead.,careful
+1417,This egg is too [MASK]. I wanted a young one instead.,old
+1418,This zebra is too [MASK]. I wanted a fearful one instead.,courageous
+1419,This shirt is too [MASK]. I wanted a powerful one instead.,powerless
+1420,This bear is too [MASK]. I wanted a timid one instead.,brave
+1421,This kite is too [MASK]. I wanted a strong one instead.,weak
+1422,This wagon is too [MASK]. I wanted an unreliable one instead.,reliable
+1423,This note is too [MASK]. I wanted a proud one instead.,humble
+1424,This wagon is too [MASK]. I wanted a similar one instead.,different
+1425,This van is too [MASK]. I wanted a mild one instead.,intense
+1426,This wagon is too [MASK]. I wanted a complex one instead.,simple
+1427,This van is too [MASK]. I wanted an unhappy one instead.,happy
+1428,This wagon is too [MASK]. I wanted a patient one instead.,impatient
+1429,This cat is too [MASK]. I wanted a general one instead.,specific
+1430,This egg is too [MASK]. I wanted a comfortable one instead.,uncomfortable
+1431,This turtle is too [MASK]. I wanted a dull one instead.,bright
+1432,This wagon is too [MASK]. I wanted a beautiful one instead.,ugly
+1433,This rooster is too [MASK]. I wanted a confident one instead.,shy
+1434,This wagon is too [MASK]. I wanted an expensive one instead.,cheap
+1435,This bear is too [MASK]. I wanted a thirsty one instead.,hungry
+1436,This note is too [MASK]. I wanted a pessimistic one instead.,optimistic
+1437,This umbrella is too [MASK]. I wanted an amateur one instead.,professional
+1438,This wagon is too [MASK]. I wanted a right one instead.,wrong
+1439,This umbrella is too [MASK]. I wanted an intelligent one instead.,stupid
+1440,This lake is too [MASK]. I wanted a soft one instead.,hard
+1441,This quilt is too [MASK]. I wanted a common one instead.,individual
+1442,This note is too [MASK]. I wanted a break one instead.,made
+1443,This umbrella is too [MASK]. I wanted an expensive one instead.,cheap
+1444,This cat is too [MASK]. I wanted a dry one instead.,sweet
+1445,This egg is too [MASK]. I wanted a responsible one instead.,irresponsible
+1446,This cat is too [MASK]. I wanted a small one instead.,big
+1447,This zebra is too [MASK]. I wanted a fast one instead.,slow
+1448,This dog is too [MASK]. I wanted a difficult one instead.,easy
+1449,This wagon is too [MASK]. I wanted a large one instead.,small
+1450,This rooster is too [MASK]. I wanted a discouraging one instead.,encouraging
+1451,This dog is too [MASK]. I wanted a cheap one instead.,expensive
+1452,This plant is too [MASK]. I wanted a buy one instead.,sold
+1453,This wagon is too [MASK]. I wanted an invisible one instead.,conspicuous
+1454,This plant is too [MASK]. I wanted an active one instead.,passive
+1455,This plant is too [MASK]. I wanted an old one instead.,young
+1456,This plant is too [MASK]. I wanted a stupid one instead.,smart
+1457,This orange is too [MASK]. I wanted an unpopular one instead.,popular
+1458,This rooster is too [MASK]. I wanted an active one instead.,quiet
+1459,This shirt is too [MASK]. I wanted a continued one instead.,discontinued
+1460,This garage is too [MASK]. I wanted an easy one instead.,difficult
+1461,This garage is too [MASK]. I wanted an organic one instead.,functional
+1462,This egg is too [MASK]. I wanted an ineffective one instead.,effective
+1463,This house is too [MASK]. I wanted an impatient one instead.,patient
+1464,This house is too [MASK]. I wanted a hot one instead.,cold
+1465,This quilt is too [MASK]. I wanted a large one instead.,small
+1466,This rooster is too [MASK]. I wanted a mild one instead.,intense
+1467,This bear is too [MASK]. I wanted a fast one instead.,slow
+1468,This egg is too [MASK]. I wanted a fearless one instead.,afraid
+1469,This umbrella is too [MASK]. I wanted a safe one instead.,dangerous
+1470,This turtle is too [MASK]. I wanted a progressive one instead.,conservative
+1471,This cat is too [MASK]. I wanted a pessimistic one instead.,optimistic
+1472,This fox is too [MASK]. I wanted a general one instead.,specific
+1473,This zebra is too [MASK]. I wanted a weak one instead.,strong
+1474,This rooster is too [MASK]. I wanted an old one instead.,young
+1475,This plant is too [MASK]. I wanted a polite one instead.,rude
+1476,This apple is too [MASK]. I wanted a rude one instead.,polite
+1477,This bear is too [MASK]. I wanted a passive one instead.,active
+1478,This cat is too [MASK]. I wanted an upstairs one instead.,below
+1479,This quilt is too [MASK]. I wanted a different one instead.,like
+1480,This apple is too [MASK]. I wanted a weak one instead.,strong
+1481,This note is too [MASK]. I wanted an unlucky one instead.,lucky
+1482,This orange is too [MASK]. I wanted a distant one instead.,close
+1483,This bear is too [MASK]. I wanted an amateur one instead.,professional
+1484,This umbrella is too [MASK]. I wanted a similar one instead.,different
+1485,This mouse is too [MASK]. I wanted a patient one instead.,impatient
+1486,This rooster is too [MASK]. I wanted an ill one instead.,well
+1487,This garage is too [MASK]. I wanted a good one instead.,bad
+1488,This dog is too [MASK]. I wanted a careless one instead.,careful
+1489,This house is too [MASK]. I wanted a thirsty one instead.,hungry
+1490,This mouse is too [MASK]. I wanted a white one instead.,black
+1491,This rooster is too [MASK]. I wanted an useful one instead.,useless
+1492,That mouse is too difficult. I want a [MASK] one instead.,easy
+1493,That orange is too dishonest. I want a [MASK] one instead.,honest
+1494,That yarn is too reliable. I want a [MASK] one instead.,unreliable
+1495,That rooster is too professional. I want a [MASK] one instead.,amateur
+1496,That dog is too late. I want a [MASK] one instead.,early
+1497,That bear is too brave. I want a [MASK] one instead.,timid
+1498,That plant is too incomplete. I want a [MASK] one instead.,complete
+1499,That house is too shy. I want a [MASK] one instead.,confident
+1500,That bear is too complete. I want a [MASK] one instead.,incomplete
+1501,That garage is too tall. I want a [MASK] one instead.,short
+1502,That van is too conspicuous. I want a [MASK] one instead.,invisible
+1503,That quilt is too active. I want a [MASK] one instead.,quiet
+1504,That yarn is too unhappy. I want a [MASK] one instead.,happy
+1505,That house is too invisible. I want a [MASK] one instead.,visible
+1506,That quilt is too hungry. I want a [MASK] one instead.,thirsty
+1507,That house is too nice. I want a [MASK] one instead.,nasty
+1508,That zebra is too wise. I want a [MASK] one instead.,foolish
+1509,That umbrella is too ill. I want a [MASK] one instead.,good
+1510,That apple is too organic. I want a [MASK] one instead.,functional
+1511,That quilt is too found. I want a [MASK] one instead.,lost
+1512,That shirt is too lucky. I want a [MASK] one instead.,unlucky
+1513,That bear is too cheap. I want a [MASK] one instead.,expensive
+1514,That bear is too slow. I want a [MASK] one instead.,fast
+1515,That yarn is too sweet. I want a [MASK] one instead.,dry
+1516,That orange is too evil. I want a [MASK] one instead.,good
+1517,That egg is too below. I want a [MASK] one instead.,upstairs
+1518,That quilt is too simple. I want a [MASK] one instead.,complex
+1519,That shirt is too intelligent. I want a [MASK] one instead.,stupid
+1520,That turtle is too effective. I want a [MASK] one instead.,ineffective
+1521,That quilt is too strong. I want a [MASK] one instead.,weak
+1522,That yarn is too positive. I want a [MASK] one instead.,negative
+1523,That mouse is too easy. I want a [MASK] one instead.,difficult
+1524,That bear is too functional. I want a [MASK] one instead.,organic
+1525,That turtle is too difficult. I want a [MASK] one instead.,easy
+1526,That garage is too irresponsible. I want a [MASK] one instead.,responsible
+1527,That egg is too happy. I want a [MASK] one instead.,unhappy
+1528,That kite is too broken. I want a [MASK] one instead.,advance
+1529,That kite is too dependent. I want a [MASK] one instead.,independent
+1530,That garage is too like. I want a [MASK] one instead.,different
+1531,That plant is too courageous. I want a [MASK] one instead.,fearful
+1532,That van is too brave. I want a [MASK] one instead.,timid
+1533,That orange is too proud. I want a [MASK] one instead.,humble
+1534,That turtle is too invisible. I want a [MASK] one instead.,visible
+1535,That cat is too useless. I want a [MASK] one instead.,useful
+1536,That kite is too uncomfortable. I want a [MASK] one instead.,comfortable
+1537,That quilt is too perfect. I want a [MASK] one instead.,imperfect
+1538,That zebra is too expensive. I want a [MASK] one instead.,cheap
+1539,That apple is too optimistic. I want a [MASK] one instead.,pessimistic
+1540,That wagon is too specific. I want a [MASK] one instead.,general
+1541,That rooster is too incomplete. I want a [MASK] one instead.,complete
+1542,That quilt is too broken. I want a [MASK] one instead.,advance
+1543,That zebra is too lucky. I want a [MASK] one instead.,unlucky
+1544,That yarn is too fat. I want a [MASK] one instead.,lean
+1545,That lake is too safe. I want a [MASK] one instead.,dangerous
+1546,That egg is too dangerous. I want a [MASK] one instead.,safe
+1547,That umbrella is too reliable. I want a [MASK] one instead.,unreliable
+1548,That apple is too intelligent. I want a [MASK] one instead.,stupid
+1549,That orange is too invisible. I want a [MASK] one instead.,visible
+1550,That orange is too cool. I want a [MASK] one instead.,warm
+1551,That rooster is too private. I want a [MASK] one instead.,public
+1552,That yarn is too like. I want a [MASK] one instead.,different
+1553,That cat is too courageous. I want a [MASK] one instead.,fearful
+1554,That note is too hard. I want a [MASK] one instead.,soft
+1555,That turtle is too like. I want a [MASK] one instead.,different
+1556,That umbrella is too uncomfortable. I want a [MASK] one instead.,comfortable
+1557,That turtle is too courageous. I want a [MASK] one instead.,fearful
+1558,That apple is too warm. I want a [MASK] one instead.,cool
+1559,That kite is too pessimistic. I want a [MASK] one instead.,optimistic
+1560,That kite is too encouraging. I want a [MASK] one instead.,discouraging
+1561,That mouse is too stupid. I want a [MASK] one instead.,smart
+1562,That cat is too encouraging. I want a [MASK] one instead.,discouraging
+1563,That umbrella is too close. I want a [MASK] one instead.,distant
+1564,That shirt is too excited. I want a [MASK] one instead.,quiet
+1565,That plant is too sold. I want a [MASK] one instead.,buy
+1566,That zebra is too gone. I want a [MASK] one instead.,come
+1567,That kite is too proud. I want a [MASK] one instead.,humble
+1568,That rooster is too optimistic. I want a [MASK] one instead.,pessimistic
+1569,That rooster is too negative. I want a [MASK] one instead.,positive
+1570,That turtle is too positive. I want a [MASK] one instead.,negative
+1571,That mouse is too unknown. I want a [MASK] one instead.,known
+1572,That umbrella is too serious. I want a [MASK] one instead.,playful
+1573,That shirt is too wise. I want a [MASK] one instead.,foolish
+1574,That mouse is too expensive. I want a [MASK] one instead.,cheap
+1575,That orange is too functional. I want a [MASK] one instead.,organic
+1576,That yarn is too incomplete. I want a [MASK] one instead.,complete
+1577,That apple is too smart. I want a [MASK] one instead.,stupid
+1578,That egg is too late. I want a [MASK] one instead.,early
+1579,That kite is too sick. I want a [MASK] one instead.,well
+1580,That apple is too humble. I want a [MASK] one instead.,proud
+1581,That shirt is too reliable. I want a [MASK] one instead.,unreliable
+1582,That wagon is too unhappy. I want a [MASK] one instead.,happy
+1583,That cat is too visible. I want a [MASK] one instead.,invisible
+1584,That bear is too organic. I want a [MASK] one instead.,functional
+1585,That house is too difficult. I want a [MASK] one instead.,easy
+1586,That garage is too courageous. I want a [MASK] one instead.,fearful
+1587,That umbrella is too intense. I want a [MASK] one instead.,mild
+1588,That garage is too fine. I want a [MASK] one instead.,harsh
+1589,That fox is too bad. I want a [MASK] one instead.,good
+1590,That lake is too patient. I want a [MASK] one instead.,impatient
+1591,That quilt is too friendly. I want a [MASK] one instead.,hostile
+1592,That quilt is too confident. I want a [MASK] one instead.,shy
+1593,That bear is too clean. I want a [MASK] one instead.,dirty
+1594,That shirt is too hopeful. I want a [MASK] one instead.,hopeless
+1595,That kite is too pessimistic. I want a [MASK] one instead.,optimistic
+1596,That lake is too optimistic. I want a [MASK] one instead.,pessimistic
+1597,That kite is too bad. I want a [MASK] one instead.,good
+1598,That wagon is too slow. I want a [MASK] one instead.,fast
+1599,That yarn is too sweet. I want a [MASK] one instead.,dry
+1600,That quilt is too unknown. I want a [MASK] one instead.,known
+1601,That lake is too active. I want a [MASK] one instead.,passive
+1602,That zebra is too worthless. I want a [MASK] one instead.,valuable
+1603,That zebra is too discontinued. I want a [MASK] one instead.,continued
+1604,That wagon is too unknown. I want a [MASK] one instead.,known
+1605,That kite is too sensitive. I want a [MASK] one instead.,insensitive
+1606,That orange is too unhappy. I want a [MASK] one instead.,happy
+1607,That quilt is too emotional. I want a [MASK] one instead.,intellectual
+1608,That van is too ugly. I want a [MASK] one instead.,beautiful
+1609,That bear is too courageous. I want a [MASK] one instead.,fearful
+1610,That wagon is too bad. I want a [MASK] one instead.,good
+1611,That house is too found. I want a [MASK] one instead.,lost
+1612,That quilt is too found. I want a [MASK] one instead.,lost
+1613,That note is too private. I want a [MASK] one instead.,public
+1614,That house is too empty. I want a [MASK] one instead.,full
+1615,That zebra is too pessimistic. I want a [MASK] one instead.,optimistic
+1616,That turtle is too slow. I want a [MASK] one instead.,fast
+1617,That lake is too sick. I want a [MASK] one instead.,well
+1618,That note is too similar. I want a [MASK] one instead.,different
+1619,That shirt is too emotional. I want a [MASK] one instead.,cerebral
+1620,That yarn is too strong. I want a [MASK] one instead.,weak
+1621,That dog is too careful. I want a [MASK] one instead.,careless
+1622,That fox is too respectful. I want a [MASK] one instead.,disrespectful
+1623,That egg is too dirty. I want a [MASK] one instead.,clean
+1624,That cat is too professional. I want a [MASK] one instead.,amateur
+1625,That yarn is too encouraging. I want a [MASK] one instead.,discouraging
+1626,That kite is too emotional. I want a [MASK] one instead.,cerebral
+1627,That quilt is too ugly. I want a [MASK] one instead.,beautiful
+1628,That mouse is too unhappy. I want a [MASK] one instead.,happy
+1629,That note is too bright. I want a [MASK] one instead.,dull
+1630,That mouse is too shy. I want a [MASK] one instead.,confident
+1631,That lake is too negative. I want a [MASK] one instead.,positive
+1632,That shirt is too functional. I want a [MASK] one instead.,organic
+1633,That orange is too dishonest. I want a [MASK] one instead.,honest
+1634,That rooster is too wrong. I want a [MASK] one instead.,right
+1635,That egg is too evil. I want a [MASK] one instead.,good
+1636,That lake is too positive. I want a [MASK] one instead.,negative
+1637,That zebra is too functional. I want a [MASK] one instead.,organic
+1638,That umbrella is too young. I want a [MASK] one instead.,old
+1639,That umbrella is too warm. I want a [MASK] one instead.,cool
+1640,That turtle is too optimistic. I want a [MASK] one instead.,pessimistic
+1641,That lake is too easy. I want a [MASK] one instead.,difficult
+1642,That rooster is too unhappy. I want a [MASK] one instead.,happy
+1643,That kite is too pessimistic. I want a [MASK] one instead.,optimistic
+1644,That plant is too incomplete. I want a [MASK] one instead.,complete
+1645,That rooster is too effective. I want a [MASK] one instead.,ineffective
+1646,That shirt is too sick. I want a [MASK] one instead.,well
+1647,That cat is too sold. I want a [MASK] one instead.,buy
+1648,That egg is too active. I want a [MASK] one instead.,quiet
+1649,That rooster is too shown. I want a [MASK] one instead.,hide
+1650,That van is too much. I want a [MASK] one instead.,little
+1651,That turtle is too healthy. I want a [MASK] one instead.,unhealthy
+1652,That dog is too much. I want a [MASK] one instead.,little
+1653,That kite is too dangerous. I want a [MASK] one instead.,safe
+1654,That cat is too excited. I want a [MASK] one instead.,quiet
+1655,That yarn is too cheap. I want a [MASK] one instead.,expensive
+1656,That cat is too easy. I want a [MASK] one instead.,difficult
+1657,That house is too close. I want a [MASK] one instead.,distant
+1658,That plant is too warm. I want a [MASK] one instead.,cool
+1659,That egg is too available. I want a [MASK] one instead.,unavailable
+1660,That note is too tough. I want a [MASK] one instead.,tender
+1661,That note is too uncomfortable. I want a [MASK] one instead.,comfortable
+1662,That plant is too effective. I want a [MASK] one instead.,ineffective
+1663,That house is too unhappy. I want a [MASK] one instead.,happy
+1664,That rooster is too emotional. I want a [MASK] one instead.,intellectual
+1665,That lake is too specific. I want a [MASK] one instead.,general
+1666,That fox is too slow. I want a [MASK] one instead.,fast
+1667,That wagon is too specific. I want a [MASK] one instead.,general
+1668,That plant is too passive. I want a [MASK] one instead.,active
+1669,That kite is too warm. I want a [MASK] one instead.,cool
+1670,That van is too big. I want a [MASK] one instead.,small
+1671,That van is too discontinued. I want a [MASK] one instead.,continued
+1672,That kite is too sick. I want a [MASK] one instead.,well
+1673,That note is too bad. I want a [MASK] one instead.,good
+1674,That quilt is too much. I want a [MASK] one instead.,little
+1675,That apple is too expensive. I want a [MASK] one instead.,cheap
+1676,That yarn is too visible. I want a [MASK] one instead.,invisible
+1677,That fox is too brave. I want a [MASK] one instead.,timid
+1678,That wagon is too impatient. I want a [MASK] one instead.,patient
+1679,That shirt is too sweet. I want a [MASK] one instead.,dry
+1680,That plant is too courageous. I want a [MASK] one instead.,fearful
+1681,That quilt is too white. I want a [MASK] one instead.,black
+1682,That rooster is too incomplete. I want a [MASK] one instead.,complete
+1683,That shirt is too cool. I want a [MASK] one instead.,warm
+1684,That zebra is too lucky. I want a [MASK] one instead.,unlucky
+1685,That umbrella is too ill. I want a [MASK] one instead.,good
+1686,That mouse is too functional. I want a [MASK] one instead.,organic
+1687,That note is too bright. I want a [MASK] one instead.,dull
+1688,That zebra is too unhappy. I want a [MASK] one instead.,happy
+1689,That note is too conservative. I want a [MASK] one instead.,progressive
+1690,That apple is too cheap. I want a [MASK] one instead.,expensive
+1691,That dog is too rude. I want a [MASK] one instead.,polite
+1692,That lake is too ugly. I want a [MASK] one instead.,beautiful
+1693,That dog is too patient. I want a [MASK] one instead.,impatient
+1694,That shirt is too much. I want a [MASK] one instead.,little
+1695,That dog is too empty. I want a [MASK] one instead.,full
+1696,That zebra is too healthy. I want a [MASK] one instead.,unhealthy
+1697,That fox is too active. I want a [MASK] one instead.,passive
+1698,That turtle is too smart. I want a [MASK] one instead.,stupid
+1699,That wagon is too hot. I want a [MASK] one instead.,cold
+1700,That quilt is too intense. I want a [MASK] one instead.,mild
+1701,That plant is too close. I want a [MASK] one instead.,distant
+1702,That cat is too hard. I want a [MASK] one instead.,soft
+1703,That wagon is too popular. I want a [MASK] one instead.,unpopular
+1704,That note is too slow. I want a [MASK] one instead.,fast
+1705,That bear is too complex. I want a [MASK] one instead.,simple
+1706,That orange is too afraid. I want a [MASK] one instead.,fearless
+1707,That quilt is too dishonest. I want a [MASK] one instead.,honest
+1708,That turtle is too smart. I want a [MASK] one instead.,stupid
+1709,That mouse is too rude. I want a [MASK] one instead.,polite
+1710,That orange is too late. I want a [MASK] one instead.,early
+1711,That zebra is too useful. I want a [MASK] one instead.,useless
+1712,That apple is too useless. I want a [MASK] one instead.,useful
+1713,That mouse is too shown. I want a [MASK] one instead.,hide
+1714,That turtle is too worthless. I want a [MASK] one instead.,valuable
+1715,That fox is too expensive. I want a [MASK] one instead.,cheap
+1716,That shirt is too careful. I want a [MASK] one instead.,careless
+1717,That egg is too old. I want a [MASK] one instead.,young
+1718,That zebra is too courageous. I want a [MASK] one instead.,fearful
+1719,That shirt is too powerless. I want a [MASK] one instead.,powerful
+1720,That bear is too brave. I want a [MASK] one instead.,timid
+1721,That kite is too weak. I want a [MASK] one instead.,strong
+1722,That wagon is too reliable. I want a [MASK] one instead.,unreliable
+1723,That note is too humble. I want a [MASK] one instead.,proud
+1724,That wagon is too different. I want a [MASK] one instead.,similar
+1725,That van is too intense. I want a [MASK] one instead.,mild
+1726,That wagon is too simple. I want a [MASK] one instead.,complex
+1727,That van is too happy. I want a [MASK] one instead.,unhappy
+1728,That wagon is too impatient. I want a [MASK] one instead.,patient
+1729,That cat is too specific. I want a [MASK] one instead.,general
+1730,That egg is too uncomfortable. I want a [MASK] one instead.,comfortable
+1731,That turtle is too bright. I want a [MASK] one instead.,dull
+1732,That wagon is too ugly. I want a [MASK] one instead.,beautiful
+1733,That rooster is too shy. I want a [MASK] one instead.,confident
+1734,That wagon is too cheap. I want a [MASK] one instead.,expensive
+1735,That bear is too hungry. I want a [MASK] one instead.,thirsty
+1736,That note is too optimistic. I want a [MASK] one instead.,pessimistic
+1737,That umbrella is too professional. I want a [MASK] one instead.,amateur
+1738,That wagon is too wrong. I want a [MASK] one instead.,right
+1739,That umbrella is too stupid. I want a [MASK] one instead.,intelligent
+1740,That lake is too hard. I want a [MASK] one instead.,soft
+1741,That quilt is too individual. I want a [MASK] one instead.,common
+1742,That note is too made. I want a [MASK] one instead.,break
+1743,That umbrella is too cheap. I want a [MASK] one instead.,expensive
+1744,That cat is too sweet. I want a [MASK] one instead.,dry
+1745,That egg is too irresponsible. I want a [MASK] one instead.,responsible
+1746,That cat is too big. I want a [MASK] one instead.,small
+1747,That zebra is too slow. I want a [MASK] one instead.,fast
+1748,That dog is too easy. I want a [MASK] one instead.,difficult
+1749,That wagon is too small. I want a [MASK] one instead.,large
+1750,That rooster is too encouraging. I want a [MASK] one instead.,discouraging
+1751,That dog is too expensive. I want a [MASK] one instead.,cheap
+1752,That plant is too sold. I want a [MASK] one instead.,buy
+1753,That wagon is too conspicuous. I want a [MASK] one instead.,invisible
+1754,That plant is too passive. I want a [MASK] one instead.,active
+1755,That plant is too young. I want a [MASK] one instead.,old
+1756,That plant is too smart. I want a [MASK] one instead.,stupid
+1757,That orange is too popular. I want a [MASK] one instead.,unpopular
+1758,That rooster is too quiet. I want a [MASK] one instead.,active
+1759,That shirt is too discontinued. I want a [MASK] one instead.,continued
+1760,That garage is too difficult. I want a [MASK] one instead.,easy
+1761,That garage is too functional. I want a [MASK] one instead.,organic
+1762,That egg is too effective. I want a [MASK] one instead.,ineffective
+1763,That house is too patient. I want a [MASK] one instead.,impatient
+1764,That house is too cold. I want a [MASK] one instead.,hot
+1765,That quilt is too small. I want a [MASK] one instead.,large
+1766,That rooster is too intense. I want a [MASK] one instead.,mild
+1767,That bear is too slow. I want a [MASK] one instead.,fast
+1768,That egg is too afraid. I want a [MASK] one instead.,fearless
+1769,That umbrella is too dangerous. I want a [MASK] one instead.,safe
+1770,That turtle is too conservative. I want a [MASK] one instead.,progressive
+1771,That cat is too optimistic. I want a [MASK] one instead.,pessimistic
+1772,That fox is too specific. I want a [MASK] one instead.,general
+1773,That zebra is too strong. I want a [MASK] one instead.,weak
+1774,That rooster is too young. I want a [MASK] one instead.,old
+1775,That plant is too rude. I want a [MASK] one instead.,polite
+1776,That apple is too polite. I want a [MASK] one instead.,rude
+1777,That bear is too active. I want a [MASK] one instead.,passive
+1778,That cat is too below. I want a [MASK] one instead.,upstairs
+1779,That quilt is too like. I want a [MASK] one instead.,different
+1780,That apple is too strong. I want a [MASK] one instead.,weak
+1781,That note is too lucky. I want a [MASK] one instead.,unlucky
+1782,That orange is too close. I want a [MASK] one instead.,distant
+1783,That bear is too professional. I want a [MASK] one instead.,amateur
+1784,That umbrella is too different. I want a [MASK] one instead.,similar
+1785,That mouse is too impatient. I want a [MASK] one instead.,patient
+1786,That rooster is too well. I want a [MASK] one instead.,ill
+1787,That garage is too bad. I want a [MASK] one instead.,good
+1788,That dog is too careful. I want a [MASK] one instead.,careless
+1789,That house is too hungry. I want a [MASK] one instead.,thirsty
+1790,That mouse is too black. I want a [MASK] one instead.,white
+1791,That rooster is too useless. I want a [MASK] one instead.,useful
