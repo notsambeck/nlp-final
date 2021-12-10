@@ -1,7 +1,5 @@
 # Jolie & Sam's NLP project
 
-[google doc link](https://docs.google.com/document/d/1N7xjAtXILDOOWdTJecoV0Y3Wl5L1fJJj7uTeiU4TIcI/edit)
-
 ## Notebook listing
 * sam_manual_tests_on_model provides a (manual) way to write one-off tests against a pre-trained model
 * training_script_breakdown
